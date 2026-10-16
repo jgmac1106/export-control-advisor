@@ -1,0 +1,115 @@
+DCSA Sample Technology Control Plan (TCP)
+
+I. SCOPE
+The procedures contained in this plan apply to all elements of the ________________ (insert company name and address). Disclosure of classified information to foreign persons in a visitor status or in the course of their employment by ____________ (insert company name) is considered an export disclosure under the International Traffic in Arms Regulations (ITAR) and requires a Department of State (DoS) license or DoS approval of either a Technical Assistance Agreement or a Manufacturing License Agreement.
+
+II. PURPOSE
+To delineate and inform employees and visitors of _____________ (insert company name) the controls necessary to ensure that no transfer of classified defense information or controlled unclassified information (defined as technical information or data or a defense service as defined in ITAR, 22 C.F.R. Part 120 (§120.32 and §120.33)) occurs unless authorized by DoS' Directorate of Defense Trade Controls (DDTC), and to ensure compliance with the National Industrial Security Program Operating Manual Rule (NISPOM Rule), 32 C.F.R. Part 117 (§ 117.11(h)(1) and § 117.19(e)(4)(v)).
+
+III. BACKGROUND
+_____________ (insert company name) _____________________ (explain the products and services the company provide (e.g., designs, manufactures, integrates…). Reference customers it provides products and/or services to (including foreign customers).
+
+IV. U.S. PERSON/FOREIGN PERSON
+The NISPOM Rule defines a U.S. person as a United States citizen, an alien known by the intelligence agency concerned to be a permanent resident alien, an unincorporated association substantially composed of United States citizens or permanent resident aliens, or a corporation incorporated in the United States, except for a corporation directed and controlled by a foreign government or governments.
+
+A U.S. National is defined in the NISPOM Rule as a citizen of the U.S., or a person who, though not a citizen of the U.S., owes permanent allegiance to the U.S.. Also see 8 USC 1101(a) (22) or 8 USC 1401 (a) para 1 to 7 for further clarification on those who may qualify as nationals of the United States.
+
+A Foreign National is any person who is not a citizen or national of the United States. A Foreign Person is defined as any foreign interest, and any U.S. person effectively controlled by a foreign interest. A Foreign Interest is any foreign government, agency of a foreign government, or representative of a foreign government; any form of business enterprise or legal entity organized, chartered or incorporated under the laws of any country other than the U.S. or its possessions and trust territories, and any person who is not a citizen or national of the United States.
+
+A. Foreign Persons
+1) No foreign person will be given access to classified material or controlled unclassified information on any project or program that involves the disclosure of technical data as defined in ITAR paragraph 120.33 until that individual's license authority has been approved by DDTC.
+
+2) __________ (insert company name) employees who have supervisory responsibilities for foreign persons must receive an export control/licensing briefing that addresses relevant ITAR requirements as they pertain to classified and controlled unclassified information.
+
+B. Foreign Person Indoctrination
+Foreign persons employed by, assigned to (extended visit) or visiting _____________ (insert name of company), shall receive a briefing that addresses the following items:
+
+a) that prior to the release of classified material or controlled unclassified information to a foreign person an export authorization issued by DDTC needs to be obtained by ____________ (insert company name).
+
+b) that they adhered to the _________________'s (insert company name) security rules, policies and procedures and in-plant personnel regulations.
+
+c) that outlines the specific information that has been authorized for release to them.
+
+d) that addresses the ______________ 's (insert name of the company) in-plant regulations for the use of facsimile, automated information systems and reproduction machines.
+
+e) that any classified information they are authorized to have access and need to forward overseas will be submitted to the _______________'s (insert company name) security department for transmission through government-to-government channels.
+
+f) that information received at ______________ (insert company name) for the foreign national and information that the foreign national needs to forward from ____________ (insert company name) shall be prepared in English.
+
+g) that violations of security procedures and in-plant regulations committed by foreign nationals are subject to ___________ (insert company name) sanctions. (List sanctions.)
+
+V. ACCESS CONTROLS for FOREIGN NATIONALS
+Address how foreign nationals will be controlled within the company's premises, for example:
+
+1) Badges: (if necessary, address procedures, e.g., composition of the badge, identification on badge that conveys that the individual is a foreign national, privileges and so forth).
+
+2) Escorts: (if necessary, address escort procedures. (NOTE: ___________ (insert name of company) supervisors of foreign persons shall ensure that foreign nationals are escorted in accordance with U.S. government and ______________ (insert name of company) regulations.
+
+3) Establishment of a segregated work area(s) if necessary.
+
+VI. EXPORT CONTROLLED INFORMATION
+List specific elements of export controlled information, both classified and unclassified, that can be disclosed to foreign nationals and the program(s) the foreign national is supporting
+
+VII. non-DISCLOSURE STATEMENT and ACKNOWLEDGEMENT
+All foreign persons shall sign a non-disclosure statement (attachment A) that acknowledges that classified and controlled unclassified information will not be further disclosed, exported or transmitted by the individual to any foreign national or foreign country unless DDTC authorizes such a disclosure and the receiving party is appropriately cleared in accordance with its government's personnel security system. (NOTE: The company may also want to address other controlled information such as company proprietary or unclassified information that does not require an export authorization but which the contract the information pertains calls for specific handling procedures.
+
+VIII. SUPERVISORY RESPONSIBILITES
+Supervisors of cleared personnel and foreign national employees and foreign national visitors shall ensure that the employees and visitors are informed of and cognizant of the following:
+
+1) that technical data or defense services that require an export authorization is not transmitted, shipped, mailed, hand carried (or any other means of transmission) unless an export authorization has already been obtained by _____________ (insert company name) and the transmission procedures follows U. S. Government regulations.
+
+2) that individuals are cognizant of all regulations concerning the handling and safeguarding of classified information and controlled unclassified information. (NOTE: Companies may also want to address company propriety and other types of unclassified information that require mandated controls.
+
+3) that the individuals execute a technology control plan (TCP) briefing form acknowledging that they have received a copy of the TCP and were briefed on the contents of the plan (Attach. B).
+
+4) that U.S. citizen employees are knowledgeable of the information that can be disclosed or accessed by foreign nationals.
+
+________________________________ ________________________________
+Print name and signature of Senior Management Official
+
+________________________________ ________________________________
+Print name and signature of DCSA Official
+
+________________________________ __________________________________
+Print name and signature of Facility Security Officer
+
+________________________________ ________________________________
+Print name and signature of Chairman, Government Security Committee
+
+
+IX. EMPLOYEE RESPONSIBILITIES
+All ___________(insert name of company) employees who interface with foreign nationals shall receive a copy of the TCP and a briefing that addresses the following:
+
+1) that documents under their jurisdiction that contain technical data are not released to or accessed by any employee, visitor, or subcontractor who is a foreign national unless an export authorization has been obtained by ______________ (insert company name) in accordance with the ITAR or the Export Administration Regulations (EAR).
+
+2) If there is any question as to whether or not an export authorization is required, contact the Facility Security Officer promptly.
+
+3) that technical information or defense services cannot be forwarded or provided to a foreign national regardless of the foreign nationals location unless an export authorization has been approved by DDTC and issued to ______________ (insert company's name).
+
+
+
+ATTACHMENT A
+
+non-DISCLOSURE STATEMENT
+
+I, ________________(insert name of individual) acknowledge and understand that any classified information, technical data or defense services related to defense articles on the U.S. Munitions List, to which I have access to or which is disclosed to me in the course of my (insert which ever term is applicable, employment, assignment or visit) by/at _______________ (insert name of company) is subject to export control under the International Traffic in Arms Regulations (title 22, code of Federal Regulations, Parts 120-130). I hereby certify that such data or services will not be further disclosed, exported, or transferred in any manner to any foreign national or any foreign country without prior written approval of the Directorate of Defense Trade Controls, U.S. Department of State and in accordance with U.S. government security (National Industrial Security Program Operating Manual Rule) and customs regulations.
+
+____________________
+Print name
+
+_____________________
+Signature
+
+_____________
+Date
+
+ATTACHMENT B
+
+TECHNOLOGY CONTROL PLAN BRIEFING ACKNOWLEDGEMENT
+
+I, _____________(insert individual's name) acknowledge that I have received a copy of the Technology Control Plan for ______________ (insert name of program) and a briefing outlining the contents of this TCP. Accordingly, I understand the procedures as contained in this TCP and agree to comply with all ____________ (insert company's name) and U.S. government regulations as those regulations pertain to classified information and export controlled information.
+
+___________________________ | _____________________________________
+Print Name of Individual and date | Print Name of Company Briefing Official and date
+___________________________ | _______________________________
+Signature of Individual | Signature of Company Briefing Official

@@ -1,0 +1,33 @@
+Export Control Program (ECP) – NIST SP 800-171 Rev. 2 Alignment Matrices
+crosswalk matrices aligning NIST SP 800-171 Rev. 2 control families with ITAR (22 CFR 120–130) and EAR (15 CFR 730–774), including additional export-specific gaps.
+Encryption Controls Matrix
+Personnel Security Matrix
+Physical Security Matrix
+Awareness & Training Matrix
+Export Risk Assessment Matrix
+
+Export Requirement | Regulatory Citation | NIST 800-171 Control(s) | Alignment Summary | Export-Specific Gap / Additional Requirement
+Encrypt technical data in transit | ITAR 125.4; EAR 734.18 | 3.13.8, 3.1.13 | Requires cryptographic protection of CUI during transmission | Keys must remain under U.S. person control; encryption does not eliminate licensing obligations
+Encrypt technical data at rest | ITAR safeguarding expectation | 3.13.16 | Protects confidentiality of stored CUI | Cloud provider admin access must be evaluated for foreign national exposure
+Use strong/FIPS cryptography (DoD context) | DFARS 252.204-7012 | 3.13.11 | Requires FIPS-validated cryptographic modules | ITAR does not mandate FIPS but contracts may require it
+Encrypt portable media | ITAR safeguarding expectation | 3.8.6 | Protects CUI on transported digital media | Physical custody and tracking controls must also be implemented
+Protect cryptographic keys | ITAR 120.54 | 3.13.10 | Requires secure key management practices | Export program must define U.S. person key custody requirements
+Export Requirement | Regulatory Citation | NIST 800-171 Control(s) | Alignment Summary | Export-Specific Gap / Additional Requirement
+Screen personnel before access | ITAR 120.17; EAR deemed export rule | 3.9.1 | Requires screening prior to granting CUI access | Must include U.S. person verification and export license review
+Remove access upon termination | ITAR compliance expectation | 3.9.2 | Ensures access removal when employment changes | Must coordinate with export compliance for foreign nationals
+Enforce least privilege | ITAR safeguarding | 3.1.5 | Limits access to need-to-know basis | Citizenship overlay must be enforced in addition to RBAC
+Export compliance training | ITAR 122.1; EAR compliance guidance | 3.2.1, 3.2.2 | Requires awareness and role-based training | Training must include export classification and deemed export rules
+Export Requirement | Regulatory Citation | NIST 800-171 Control(s) | Alignment Summary | Export-Specific Gap / Additional Requirement
+Restrict facility access | ITAR 125.4; EAR 734.13 | 3.10.1 | Limits physical access to systems containing CUI | Must ensure foreign nationals are restricted from controlled areas
+Escort visitors | ITAR safeguarding expectation | 3.10.3 | Requires visitor monitoring and escort | Visitor nationality verification required
+Monitor physical access | ITAR compliance expectation | 3.10.2 | Maintains physical access logs | Retention must meet ITAR recordkeeping requirements (5 years)
+Control physical access devices | ITAR safeguarding expectation | 3.10.4 | Manages and inventories badges/keys | Immediate revocation required upon employment termination
+Export Requirement | Regulatory Citation | NIST 800-171 Control(s) | Alignment Summary | Export-Specific Gap / Additional Requirement
+Security awareness training | ITAR 122.1 | 3.2.1 | Ensures personnel understand safeguarding responsibilities | Must explicitly include ITAR/EAR penalties and obligations
+Role-based export training | EAR compliance guidance | 3.2.2 | Requires training aligned to job responsibilities | Must include classification (USML/ECCN) processes
+Insider threat awareness | BIS compliance guidance | 3.2.3 | Training on recognizing/reporting suspicious behavior | Must include export violation reporting and voluntary disclosure process
+Risk Category | Threat Scenario | Impact | Likelihood | Mitigation (NIST 800-171 Control) | Export-Specific Gap / Additional Requirement
+Foreign National Access | Unauthorized foreign person accesses export-controlled data | Severe (Export violation) | Medium | 3.9.1, 3.1.1 | Requires export license determination and documentation
+Unencrypted Transmission | Export data transmitted without encryption | High | Low | 3.13.8 | International transmission may still require export authorization
+Improper Access Removal | Terminated employee retains system access | High | Medium | 3.9.2 | Must assess whether export license was tied to employment
+Physical Breach | Unauthorized facility entry to server room | High | Low | 3.10.1, 3.10.2 | Foreign national access review required

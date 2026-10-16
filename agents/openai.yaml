@@ -1,0 +1,14 @@
+interface:
+  display_name: Export Control Policy Advisor
+  short_description: Draft export policies or adapt NIST 800-171 documents
+  default_prompt: Use $export-control-advisor to draft an export-control policy or
+    adapt my existing NIST SP 800-171 documentation.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

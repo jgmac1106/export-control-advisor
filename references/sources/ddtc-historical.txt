@@ -1,0 +1,165 @@
+PAGE 1
+
+Bureau of Political Military Affairs
+Directorate of Defense Trade Controls
+Office of Defense Trade Controls
+   Compliance
+
+Compliance Program Guidelines
+
+Comprehensive operational compliance programs include manuals that articulate
+the processes to be followed in implementing the company program.  Important
+elements of effective manuals and programs include:
+
+Organization Structure
+
+• Organizational charts.
+• Description (and flow charts, if appropriate) of company’s defense trade
+functions.
+• Description of any management and control structures for implementing and
+tracking compliance with U.S. export controls (including names, titles, and
+principal responsibilities of key officers).
+
+Corporate Commitment and Policy
+
+• Directive by senior company management to comply with Arms Export
+Control Act (AECA) and the International Traffic in Arms Regulations
+(ITAR).
+• Knowledge and understanding of when and how the AECA and ITAR affect
+the company with ITAR controlled items/technical data.
+• Knowledge of corporate internal controls that have been established and
+implemented to ensure compliance with the AECA and ITAR.
+
+Examples of detail:
+o Citation of basic authorities (AECA, ITAR).
+o Identification of authorized U.S. Government control body
+(Directorate of Defense Trade Controls ("DDTC")).
+o Corporate policy to comply fully with all applicable U.S. export
+control laws and regulations.
+ 1
+
+PAGE 2
+o Compliance as a matter for top management attention that needs
+adequate resources.
+o Identification, duties, and authority of key persons (senior executives,
+empowered officials) for day-to-day export/import operations and
+compliance oversight.
+o Corporate Export Administration organization chart.
+o Operating Division Export Administration flow chart.
+
+Identification, Receipt and Tracking of ITAR Controlled Items/Technical Data
+
+• Methodology used, specifically tailored to corporate structure, organization,
+and functions, to identify and account for ITAR controlled items/technical
+data the company handles (trace processing steps of ITAR controlled
+transactions from the time the company manufactures/receives the item to
+the time an item is shipped from the company – or in the case of a defense
+service, when provided).
+
+Examples of questions to be addressed:
+o Are appropriate employees familiar with the AECA and ITAR and
+related requirements, including handling export approvals with certain
+provisos and limitations?
+o Are company employees notified of changes in U.S. export control
+restrictions, and are they provided accurate, reliable interpretation of
+U.S. export control restrictions?
+o What U.S. origin defense articles are manufactured/received by the
+firm and from whom?  How identified and “tagged”?
+o What U.S. origin technical data related to defense articles are
+produced/received by the firm and from whom? How identified and
+tagged”?
+o What items are manufactured by the firm using U.S. origin technical
+data?  How identified and “tagged”?
+o What items or articles are manufactured by the firm that incorporates
+U.S. origin defense articles (components)?  How identified and
+“tagged”?
+o What kind of recordkeeping system does the company maintain that
+would allow for control of, and for retrieval of information on, U.S.
+origin technical data and/or defense articles exported to the company?
+
+Re-Exports/Retransfers
+
+ 2
+
+PAGE 3
+• Procedures utilized to (a) obtain written State Department approval prior to
+the retransfer to a party not included in a State Department authorization of
+an item/technical data transferred or exported originally to the company, and
+(b) track the re-export or re-transfer (including placing parties on notice that
+the proposed transfers involve US origin products and labeling such
+products appropriately).
+
+o Procedure when an ITAR controlled item/technical data is transferred
+by the company to a foreign national employed at the company.
+o Procedure when an ITAR controlled item/technical data is transferred
+by the company to a foreign person within the U.S.
+o Procedure when ITAR controlled technical data or defense articles are
+transferred from the company to a foreign person outside of the U.S.
+o Procedure when an ITAR controlled item/technical data is to be used
+or transferred for an end-use not included in the State Department
+authorization.
+
+Restricted/Prohibited Exports and Transfers
+
+• Procedure for screening customers, carriers, and countries.
+• Screening procedure for high-risk transactions to combat illegal
+exports/retransfers.
+• Procedures to investigate any evidence of diversion or unauthorized use of
+U.S. origin products.
+
+Recordkeeping
+
+• Description of record systems concerning U.S. origin products.
+• Procedures for maintaining records relating to U.S. origin products for five
+years from the expiration of the State Department license or other approval.
+• Regular internal review of files to ensure proper practices and procedures by
+persons reporting to top management.
+
+Internal Monitoring
+
+• Perform audits periodically to ensure integrity of compliance program.
+• Emphasis on validation of full export compliance, including adherence to
+license and other approval conditions.
+• Measurement of effectiveness of day-to-day operations.
+ 3
+
+PAGE 4
+• Adopt procedure for highlighting any compliance areas that needs more
+attention.
+• Report known or suspected violations to Corporate export administration
+office.
+• Effective liaison and coordination with Ombudsman.*
+
+Examples of detail:
+o Specific description of procedures (examination of organizational
+structure, reporting relationships, and individuals assigned to
+export/import controls process.
+o Random document review and tracing of processes.
+o Review of internal recordkeeping, communications, document
+transfer, maintenance and retention.
+o Conclusion and report of violations to Corporate Export
+Administrator.
+o Coordination with Ombudsman.
+
+Training
+
+• Explanation of company training program on U. S. export control laws and
+regulations.
+• Process to ensure education, training, and provision of guidance to all
+employees involved on exports (including those in departments such as
+Traffic, Marketing, Contracts, Security, Legal, Public Relations,
+Engineering, Executive Office).
+
+Violations and Penalties
+
+• Procedures for notification of potential violations, including use of voluntary
+disclosure and Ombudsman to report any violation of the company’s internal
+control program or U.S. export controls.
+• Emphasis on importance of compliance (to avoid jeopardizing Corporate
+business and severe sanctions against the Corporation and responsible
+individuals).
+• Description of AECA/ITAR penalties.
+• Written statements and procedures to foster employee discipline (e.g.,
+keying certain types of advancement to compliance understanding and
+implementation, and establishment of internal disciplinary measures).
+ 4

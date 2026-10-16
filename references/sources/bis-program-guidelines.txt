@@ -1,0 +1,1801 @@
+PAGE 1
+U.S. Department of Commerce
+Bureau of Industry and Security
+Export
+Compliance
+Guidelines
+The Elements of an Effective
+Export Compliance Program
+
+PAGE 2
+
+
+PAGE 3
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+i
+TABLE OF CONTENTS
+1) MANAGEMENT COMMITMENT  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Export compliance flows from the top down  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+The management commitment statement  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+Provide adequate resources for the program  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+Management resistance and ways to gain support . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+2) RISK ASSESSMENT  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Common risks in the export process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .9
+Ways to mitigate risks  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+3) EXPORT AUTHORIZATION  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Jurisdiction, classification, and license determination  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+Screening . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .18
+4) RECORDKEEPING   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Part 762 of the Export Administration Regulations (EAR)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+Create a system to manage records  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+Assign roles and responsibilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .20
+Shift to electronic communication and documents  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .20
+U .S . Government Request for documents  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+5) TRAINING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Levels of training based on need . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .23
+Hold employees accountable for training  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24
+Building a compliance culture  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .24
+6) AUDITS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Experienced audit personnel  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .25
+Types of audits  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .25
+Share findings and follow-up  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .26
+7) HANDLING EXPORT VIOLATIONS AND TAKING CORRECTIVE ACTIONS  . . . . . . . . . . . . . . . . . . . 29
+Detect and act early . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .29
+Internal and external reporting procedures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .30
+Support from senior management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .30
+8) BUILD AND MAINTAIN YOUR EXPORT COMPLIANCE MANUAL  . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Getting started . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .33
+Ready to write  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .33
+Ready to publish  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .34
+AUDIT MODULE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+TEMPLATES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+REFERENCES  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 49
+
+
+PAGE 4
+
+
+PAGE 5
+YOUR EXPORT COMPLIANCE PROGRAM
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+1
+YOUR EXPORT COMPLIANC E PROGR AM
+Welcome to export compliance, a topic that may be a small segment of your overall organization’s
+compliance programs, however, if not properly addressed could create major challenges.  This document
+contains information on the elements of an effective Export Compliance Program (ECP) and how to build a
+program suitable for your company or organization.
+The purpose of an ECP is to create a series of procedures that help organizations operate their export
+activities in accordance with the Export Administration Regulations (EAR).  Though these guidelines are
+written specifically to assist with compliance with the EAR, requirements from other regulations can also
+be incorporated into your ECP . Having an effective ECP helps organizations integrate requirements from
+export controls with their business operations.  This minimizes risks of violating the EAR and streamlines
+export operations.
+The Elements of an Effective Export Compliance Program (ECP)
+The Bureau of Industry and Security (BIS) has identified the following elements as critical for an effective
+ECP for items subject to the EAR.  These elements provide a foundation for the basic structure of your ECP ,
+but they do not necessarily constitute an exhaustive list. The Elements are:
+1. Management Commitment
+2. Risk Assessment
+3. Export Authorization
+4. Recordkeeping
+5. Training
+6. Audits
+7. Handling export violations and taking corrective actions
+8. Build and maintain your ECP
+Tailor your ECP to your specific organization’s needs
+The list or number of elements that your organization utilizes may be longer but needs to reflect the unique
+export operations and re-export activities of your organization.
+Factors that will impact your ECP:
+ y size of your organization
+ y strategic nature of items and possible end-uses or end-users
+ y geographic location of organization, subsidiaries, and customers
+ y relationships with business partners
+ y volume of exports
+ y complexity of internal export processes
+Building an ECP for the first time?
+If this is your first time building an ECP , start with Element 8 first.  In that element, you’ll learn how to build
+a team, evaluate your needs, and start framing your ECP .  Then go through Elements 1-7.
+
+PAGE 6
+
+
+PAGE 7
+ELEMENT ONE: MANAGEMENT COMMITMENT
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+3
+ELEMENT 1
+MANAGEMENT COMMITMENT
+Senior Management commitment is the most important factor in the success of an ECP . With that support,
+the ECP is more likely to be fully embraced by the organization and integrated in the company’s daily
+operations.  Every effective ECP is a top down process with the organizations senior management giving
+significance and legitimacy to the program by:
+ y Publicly supporting compliance policies and procedures
+ y Providing sufficient resources
+ y Supporting export compliance training and training sessions
+The Management Commitment Statement
+A great way to demonstrate strong management support and commitment for export policies and
+procedures is to have the Chief Executive Officer, President, or another senior executive, personally sign
+the Management Commitment Statement.  This formal statement communicates to all employees and staff
+the importance of export compliance and the commitment to adhere to the requirements of the EAR.  This
+statement should be reviewed and disseminated annually for all employees to read and sign.  It should
+also be included in the opening pages of your ECP manual.
+The message should communicate that export compliance requires a proactive, organization-wide
+commitment that includes all levels and that each employee plays a role in securing the integrity of the
+system.  Employees should understand “the big picture” and also realize their own personal role and
+responsibility in guaranteeing export compliance.  If not, they risk being the weak link that can bring the
+whole program down.
+Additionally, the statement should be communicated to contractors, during the contract process, who are
+acting on the company’s behalf.  This would include consultants, interns, freight forwarders, distributors,
+sales representatives, joint venture partners, and any other contractor.  It should be a condition of doing
+business with the organization.
+Contents of the Management Commitment Statement
+ y Affirm the company’s commitment to export compliance and commitment of appropriate resources
+to compliance.
+ y Explain the basic purpose of export controls and its importance in protecting national security and
+foreign policy interests for the United States.
+ y State that no sale under any circumstances, will be made that violates or potentially violates the
+U.S. export regulations and laws.
+
+PAGE 8
+ELEMENT ONE: MANAGEMENT COMMITMENT
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+4
+ y Stress the importance of the organization’s employees being familiar and compliant with export
+controls, so that the employees understand possible noncompliance scenarios, specific risks as
+they relate to the company’
+s products, technology, destinations and activities.
+ y Communicate the risk of unauthorized transfers, for even low-level technology, which can
+potentially jeopardize national security or further the development of weapons of mass
+destruction.
+ y Describe the possible penalties that a company and individual could face for non-compliance:
+––  –– Loss of export privileges
+––  –– Disciplinary action by the company
+––  –– Damage to the individual and company’s reputation
+––  –– Criminal penalties
+––  –– Administrative/Civil penalties
+ y Include the name and contact information of the Export Compliance Manager, in case there are
+export compliance questions such as:
+––
+–– Potential violations
+––  –– Updates to the manual or statement
+––  –– Procedural export uncertainties
+
+PAGE 9
+ELEMENT ONE: MANAGEMENT COMMITMENT
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+5
+EXAMPLE OF A POSSIBLE MANAGEMENT COMMITMENT STATEMENT
+All Employees & Contractors
+Name, President/CEO/Chairman
+DATE:
+TO:
+FROM:
+SUBJECT: Export Policy Statement
+(Company) is committed to compliance with all export controls in the Export Administration Act and the
+Export Administration Regulations.  This commitment extends to promoting strict compliance on an on-
+going basis with terms and conditions.
+It is (Company
+) policy that all employees, comply with the United States export policies and regulations.
+Under no circumstances will exports be made contrary to U.S. export regulations by any individual
+operating on behalf of (Company).
+Employees outside the United States may not re-export any commodity, technology, or software unless
+appropriate authorization has been obtained, and this includes foreign-produced items that are the
+direct product of U.S. technology and software and are subject to export controls under the Export
+Administration Act.
+No activities will be undertaken that are in violation of the United States policies which seek to control
+nuclear proliferation, missile technology, and chemical and biological weapons.
+Failure to comply with these regulations may result in the imposition of criminal and/or civil fines and
+penalties, including jail time and monetary penalties, and employees will be subject to disciplinary action
+and/or termination.
+I ask each of you to take this matter very seriously and to support me in this effort. If you have any
+questions concerning the legitimacy of a transaction or potential violations, please contact:
+Insert Name
+Title
+Phone
+E-Mail
+Note: This Statement of Corporate Commitment to Export Compliance will be issued on an annual basis or
+if necessitated by personnel changes, changes in management, or regulatory changes.
+[Responsible Official] is responsible for disseminating this Statement throughout the organization through
+[Company’s] Export Compliance Program Manual updates, incorporation into training and presentations,
+and posting on the (Company] Intranet and Web site.
+________________________________
+ (SIGNATURE) ____________________  (DATE) _____________
+President/CEO/Chairman
+On Company Letterhead
+
+PAGE 10
+ELEMENT ONE: MANAGEMENT COMMITMENT
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+6
+EXAMPLE OF EMPLOYEE ACKNOWLEDGEMENT
+All employees are required to read and sign the following verification statement on an annual basis and
+submit to the Human Resources Office to be filed in their personnel file.
+I, _________________________, hereby acknowledge that I received, on (DD/MM/YY) (Company) policy
+statement dated (DD/MM/YY) and signed by (Signing Official), regarding (Company) commitment to export
+control compliance.  I have read such policy statement and will comply with (Company) export compliance
+policies and procedures in support of (Company) compliance efforts.
+Employee Signature  _____________________________________  Printed name ___________________________________
+T
+itle ___________________________________________________     Date __________________________________________
+
+PAGE 11
+ELEMENT ONE: MANAGEMENT COMMITMENT
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+7
+Providing Resources and Support
+Management must provide staff with the compliance tools necessary to perform their jobs, including the
+appropriate training, budgets, and high-profile support.  Management’s commitment must be embedded
+in every aspect of the ECP , and management must maintain active and transparent involvement in that
+regard, realizing that export compliance is a process driven from the top.
+Support for Training and Training Sessions
+To ensure that sufficient resources -- time, money, and personnel -- are provided to the ECP , management
+should participate in periodic ECP resource and planning meetings.  The objective of these meetings
+would be to discuss changes that are needed, deficiencies identified, enhancements, etc., of the ECP .
+Through this method, your company may continuously revisit resource allocation to ensure that the
+company’s export compliance obligations are being met.  Export compliance positions should have
+sufficient authority and discretion vested in them to garner the required backing to ensure compliance.
+Standards, responsibilities, and positions might be identified in this section of your ECP .
+Resistance, Excuses, and Ways to Gain Support
+Are you having a tough time getting management commitment?  The reasons may vary.  Sometimes it is
+money, time, or misunderstanding the need for their personal involvement.  Regardless of the reason, the
+CEO or president may need some more persuasion. Some excuses are:
+Example #1: “An Export Compliance Program is a not required by the EAR.”
+Explain that an ECP will help formalize procedures, centralize operations, and produce a more
+reliable supply chain for their customers so they are dependable and consistent.  Explain all the
+requirements and the consequences for not completing them.
+Example #2: “Violations are a cost of business
+ .”
+Not true.  When management is not concerned with complying with export regulations,
+compliance programs are under resourced, ineffective, and eventually violations will occur.  Often
+times, the costs of the violations go beyond penalties and fines.  Additional costs include hefty
+legal fees, damage to one’
+s reputation, delays in the export process, and loss of future business.
+Example #3: “It won’t happen to us .”
+Compliance managers that are looking to gain support from senior management may want to
+use stories from the BIS publication, “Don’t Let This Happen to Y
+ou.”  Many organizations have
+successfully gained support after presenting to their superiors stories of familiar companies or
+competitors and their fines.  The publication can be found at www.bis.doc.gov.
+Example #4: “Our Freight Forwarder will manage our export program
+ .”
+Export control compliance is not a task that should be outsourced to your freight forwarder.
+Freight forwarders can provide excellent expertise and guidance on logistics and may have
+some knowledge of your export business but the exporter is principally responsible for that task
+and certainly will be the first focus if any violation occurs.
+Your freight forwarder can act as a
+safeguard and review your export information but you are responsible for the accuracy of the
+information provided to your forwarder.
+
+PAGE 12
+
+
+PAGE 13
+ELEMENT TWO: RISK ASSESSMENT
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+9
+ELEMENT 2
+RISK ASSESSMENT
+Risks in export compliance are threats that can negatively affect your organization’s reputation and export
+business, if ignored.  The goal of this element is to identify preventable risks your company may face and
+then build safeguards to control for these risks.
+Many companies fail to identify their risks early on and focus solely on getting orders out.  This can create
+vulnerabilities in the compliance program and then require much more work later to correct.  Start early
+and invest in a compliance program that assesses your organization’s risks.  Understanding these risks
+will help in building your specific export procedures in Element 3: Export Authorization.  In the next section,
+we will use these results to help you build your procedures.
+Go through each risk and read about how to identify it and ways to mitigate.  Though this exercise cannot
+identify every risk you will face, it will give you a good start.
+Whether you are new to export compliance or are a veteran of export compliance, the need to identify
+your vulnerabilities is great.  Below are common risks that organizations will face when exporting and
+suggested ways to mitigate those risks.  They have been organized into three main areas:
+ y Export Item
+ y Organization Operations
+ y Customer(s)
+COMMON RISKS
+EXPORT ITEM ORGANIZATION OPERATIONS CUSTOMER(S)
+Export without a license
+Unauthorized release of
+sensitive information or
+controlled technology
+Servicing items located outside
+the U.S.
+Weak or no compliance structure
+Lack of communication within
+the organization
+Poor relationships with export
+facilitators
+No or Underdeveloped Export
+Clearance Procedures
+Unknown End-User or
+End-Use
+Unaware of diversion risk
+Violating Anti-boycott Laws
+
+PAGE 14
+ELEMENT TWO: RISK ASSESSMENT
+10
+EXPORT ITEM
+Take a close look at the type of item that you export - whether it’s a physical item, technology, software, or
+even a service.  These items could require an export license for various reasons.  Before exporting, first
+confirm if the item requires a license, and if so, obtain one or use a license exception, if one is eligible.
+Export without a License
+Not all items require a license to export.  Most do not.  However, it is the responsibility of the exporter to
+determine if a license is required.  Most often organizations without a formal export authorization process
+will inadvertently export items or release technology without following defined steps.
+Having a clear and defined Order Review process is the best way to prevent items from being exported
+without proper authorization.  Examine current methods of receiving orders and how they are processed.
+Topics to focus on:
+ y New and Existing customers
+ y Export Item is controlled by ECCN, Country of Destination or other regulations
+ y End-Use and End-Users
+ y Required Documentation
+ y Terms of sale
+To help readers conceptualize the process, create a decision tree process to determine the appropriate
+export authorization for your organization’
+s items (license required, license exception eligible, or no
+license required).  More on this is included in Element 3.
+Unauthorized release of sensitive or controlled technology
+Sometimes, organizations may be unaware that their technology may first require an export license
+before releasing that technology to a foreign national, either here in the U.S. or abroad. These releases
+can happen at trade shows, via emails, demonstrations, or hiring foreign nationals to work with controlled
+technology.  If you are hiring foreign nationals at your U.S. facilities and the foreign nationals have access
+to controlled technology, you should create a Technology Control Plan to safeguard sensitive information
+from unauthorized release.
+To help prevent unintentional controlled technology releases, catalog your technology and any foreign
+nationals working for your organization. Centralize your hiring and human resource processes to ensure
+appropriate screening is completed prior to providing controlled technology to foreign nationals.  Hold
+brown bag lunches and other training for technical engineers and research scientists to ensure they
+understand the organization’s security procedures.  Occasionally attend your engineer’s routine monthly
+meetings to better understand ongoing projects and any possible export control compliance issues.
+More information on Deemed Exports can be found on BIS’s web site at www.bis.doc.gov and then enter
+keyword Deemed Exports.
+Servicing items located outside the U .S .
+If you are servicing products that you did not export, you need a process to ensure the equipment was
+exported properly.
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+
+PAGE 15
+ELEMENT TWO: RISK ASSESSMENT
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+11
+Before performing services, get answers to the following questions:
+a) Are the parties or activities prohibited by export control?
+b) Will proposed field service activities be subject to export controls?
+c) Was the equipment to be serviced exported properly?
+d) Are the necessary spare parts to be exported for prohibited end-uses or end-users?
+Servicing items that have been exported without the proper authorization first must be reported to BIS
+Export Enforcement.  A license may need to be obtained in order to service these items.
+ORGANIZATION OPERATIONS
+Weak or No Compliance Structure
+Without a clear structure, compliance programs face lack of oversight, poor communications, and
+undefined roles.  Having a strong structure helps organizations work out problems when they arise and
+prevent unauthorized exports from occurring.
+Examine reporting structures for possible conflict of interest in lines of authority.
+Example: Sales in charge of compliance or compliance at a lower tier with no access to management
+officers.  There may also be conflicts of authority for the export compliance official who must report to
+multiple departments, for example, Legal and Operations.   Aim to simplify the structure and reduce the
+burden for the compliance officials to report and address issues.
+Centralize or Decentralize?
+Organizations with multiple office locations, domestic or international, are faced with the decision to
+centralize or decentralize their ECP .  Some companies will choose to designate a single employee to
+administer and manage the program and coordinate the export compliance responsibilities with the other
+offices.  However, the program also can be decentralized with the corporate office providing general
+guidelines but allowing each separate operating unit to act independently.
+Do you have adequate resources?  Compliance officials will need to assess current needs and request
+sufficient resources to keep their organizations in compliance.  Buying software, taking trainings, and
+hiring new staff are all costs that need to be identified and justified.  Without adequate resources, a
+compliance official will not be able to complete the necessary tasks to keep their compliance program
+running.
+Organize your compliance program:
+1.
+Describe the structure of your company.  Include a narrative and organization chart indicating
+location of corporate headquarters, operating divisions, including manufacturing facilities, and
+domestic and foreign subsidiaries and affiliates.
+2.
+Identify all domestic and foreign divisions/offices/facilities that will have a role in your export
+transactions.
+3.
+Identify location(s) of where you would like to have export compliance manager(s).  Highlight the
+proposed management line of authority for export control related activities.  Clearly indicate how
+divisions/positions will be interrelated.
+4.
+List the total number of employees you anticipate will be directly involved in export
+related functions.
+
+PAGE 16
+ELEMENT TWO: RISK ASSESSMENT
+12
+5. How many orders do you anticipate to process monthly?
+6. What do you anticipate will be the average time frame from acceptance of order to
+time of shipment?
+7. Identify offices and personnel who are in the order processing chain.
+Lack of Communication within the Organization – Potential Issues
+ y Units or co-workers not talking to each other
+ y Compliance is not at the table.  Seems to be a hindrance to business
+ y Competitive nature at company may make it hard to collaborate
+ y Negative attitude of compliance generally
+Leading the compliance effort can be a difficult task.  Some people will not want to listen or follow.  Others
+are apathetic.  Often times we find that individuals in the company do not communicate and talk to each
+other about export compliance responsibilities.  With better communication, companies could cut down
+on a lot of problems like making sure tasks are completed and coordinating with other units on their
+responsibilities.  Also, companies that have a high level of competition within their units or with their
+subsidiaries may also have a lack of collaboration.  Breaking these barriers is not easy
+.  However, export
+compliance officials must find a way to build bridges and create open lines of communication.  Having
+management support meetings or trainings can help get people together on these issues.  Have active
+engagement by sending periodic emails and broadcasts.  Element 5/Training provides other ways to do get
+your compliance message out. Find the right solution that fits your organization.
+Poor relationships with export facilitators
+ y Is your freight forwarder difficult to deal with?
+ y Are you constantly involved in routed transactions?
+ y Has your company decided to rely on a third party to file and facilitate export activities?
+ y What ideal export program is ideal?
+ y What are some warning signs that the relationship is going down south?
+Do it and forget it.  This is the mentality that some exporters seem to have for certain duties or tasks
+related to export compliance.  Exporters will often outsource their EEI filings, export classification,
+licensing, and other tasks to lawyers, consultants, freight forwarders, or other third parties.  At times,
+these relationships work well but if left unchecked, errors can go unnoticed for a long period of time.
+Organizations need to perform audits on their export facilitators to make sure the EEI information is
+filed correctly, export classifications are up to date, and regulatory requirements are being performed
+accurately and timely
+.
+BIS recommends that you know your freight forwarder and customers.  Not doing so puts your
+organization at risk.  An untested or unproven freight forwarder can mishandle your item and your
+documentation, possibly putting your organization at risk of penalty.  This is the case in routed
+transactions, when the foreign principal party in interest instructs the U.S. principal party in interest
+(USPPI) to use a particular freight forwarder.  The USPPI must document their due diligence to protect
+themselves from inaccurate Electronic Export Information entry, unauthorized shipping routes, and
+possible diversion.
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+
+PAGE 17
+ELEMENT TWO: RISK ASSESSMENT
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+13
+Strengthen your relationship by holding regular meetings or conversations and establishing an
+understanding of roles and responsibilities.  Organizations may look to contractual agreements to help
+supplement regulatory requirements for each party.  For more information, read the publication “Freight
+Forwarder Guidance.”   See the link in the Reference section.
+Nonexistent or Underdeveloped Export Clearance Procedures
+Companies put themselves at unnecessary risk when they make export clearance decisions on the fly and
+do not have established procedures and checklists to follow.  It is very important to create specific export
+clearance procedures for shipping departments to follow and have strong hold/release processes in
+place, in case the exports are questionable.
+These procedures should review the following:
+ y Accuracy and completeness of shipping documents
+ y Proper notations and export authorizations
+ y Unusual or unknown shipping route
+ y Valid methods of transport
+ y Cleared proscribed party screening
+ y Unusual requests concerning labeling or shipment of goods
+CUSTOMER(S)
+As the exporter, it is your job to know the customer and the parties involved in facilitating the export.
+When receiving a new order or request for export items, a company should first examine the suitability of
+the customer and the end-users.
+Unknown End-User
+As an exporter, you are responsible for knowing your customers and for ensuring that your exports do not go
+to prohibited end-users.  As a good compliance practice, you should include mechanisms in your procedures
+that verify the legitimacy of your customers and their transactions. You will need to incorporate different
+types of compliance measures within your ECP to address risk factors commensurate with different types
+of customer relationships.
+Ways to establish credibility of the customer:
+
+ y Verify the legitimacy of the buyer by checking their:
+––  –– Address by searching on Google Maps or Bing or Yahoo
+––  –– Website
+––  –– Email Address has company name in it
+ y Obtain an End-Use Statement
+ y Screen parties against all proscribed parties lists
+ y Adding language in the contracts, shipping documents to notify customers of export requirements
+ y Establish the business operations of customers and whether they are a reseller or product
+integrator
+
+PAGE 18
+ELEMENT TWO: RISK ASSESSMENT
+14
+General Prohibition 4 and General Prohibition 5 restrict and at times, prohibit exporters from sending items
+to certain entities.  A license may be required.  Exporting without proper authorized is a violation.  How do I
+mitigate this risk?
+Identify who and what needs to be screened
+Parties Involved
+ y Customer/Ultimate Consignee
+ y Intermediate Consignee
+ y Freight Forwarders
+ y Purchaser
+ y End-User
+Address of the End-User or Ultimate Consignee
+Unknown End-Use
+Ways to establish credibility of the end-use:
+How will the customer use the product?  Verify the legitimacy of the stated end-use.
+What can you do to verify end-use?
+If misused, could the product be used for the following proliferation activities?
+ y Chemical Weapons
+ y Biological Weapons
+ y Nuclear Weapons
+ y Delivery systems of such weapons
+ y Technology to develop destructive systems
+Are any back-up supporting documents required by the EAR?  When?
+What do I do if my customer does not want to provide us end-use information?
+Has particular attention been paid to whether or not the product or service is intended for military use
+or subject to licensing?
+Examples of Red Flags:
+ y End-use is inconsistent with customer’s stated end-use objectives and nature of
+customer business.
+ y Quantity of product is not consistent with projected need
+ y No way to detect prohibited proliferation end-uses
+ y No mechanism or procedure to ensure compliance with end-use license conditions
+Unaware of Diversion Risk
+The diversion of dual-use U.S. origin items from authorized to unauthorized end-uses, end-users, or
+destinations, even inadvertently, undermines efforts to counter the proliferation of weapons of mass
+destruction, terrorism, and other threats to national and international security. Global “transshipment
+hubs’’--i.e., countries or areas that function as major hubs for the trading and shipment of cargo--pose
+special risks due to their large volumes of export, transit, transshipment, and import and re-export traffic.
+Such hubs make transshipment trade particularly vulnerable to the diversion of sensitive items to
+unlawful purposes.
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+
+PAGE 19
+ELEMENT TWO: RISK ASSESSMENT
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+15
+Diversion risk should be identified during the order process review.  Compliance managers need to
+develop a hold and release process for shipments that are being sent to or through known diversion points
+and hubs.
+As a last line of defense against diversion risk, develop shipping procedures and construct a checklist for
+shipping personnel to use prior to exporting items.
+Violating Anti-boycott Law - EAR Part 760
+The anti-boycott laws were adopted to encourage, and in specified cases, require U.S. firms to refuse
+to participate in foreign boycotts that are not sanctioned by the United States. They have the effect of
+preventing U.S. firms from being used to implement foreign policies of other nations which run counter to
+U.S. policy.
+The anti-boycott provisions of the Export Administration Regulations (EAR) apply to the activities of
+U.S. persons in the interstate or foreign commerce of the United States. The term “U.S. person” is
+defined in EAR 772.
+The scope of the EAR, as defined by Section 8 of the EAA, is limited to actions taken with intent to comply
+with, further, or support an unsanctioned foreign boycott.
+Prohibited by Anti-boycott Laws
+Conduct that may be penalized under the Tax Reform Act and/or prohibited under the EAR includes:
+ y Agreements to refuse or actual refusal to do business with or in Israel or with blacklisted
+companies.
+ y Agreements to discriminate or actual discrimination against other persons based on race, religion,
+sex, national origin or nationality.
+ y Agreements to furnish or actual furnishing of information about business relationships with or in
+Israel or with blacklisted companies.
+ y Agreements to furnish or actual furnishing of information about the race, religion, sex, or national
+origin of another person.
+ y Implementing letters of credit containing prohibited boycott terms or conditions.
+Report Anti-boycott violations to http://www.bis.doc.gov/index.php/enforcement/oac?id=300.
+For more information: http://www
+.bis.doc.gov/index.php/enforcement/oac#boycottlaws
+
+PAGE 20
+ELEMENT TWO: RISK ASSESSMENT
+16
+Summary of Risks and Ways to Mitigate
+This list is not all-inclusive.  It might be most helpful to new exporters to help understand the possible risks
+involved in each phase of the exporting process and ways to mitigate those risks.  Some of these risks and
+ways to mitigate may repeat throughout the process.
+COMMON
+RISKS
+TOOLS TO
+MITIGATE RISKS
+RESOURCES TO
+WRITE  PROCEDURES
+Export without a license Develop a License Determination Matrix Element 3
+Unauthorized release of sensitive
+information or controlled
+technology
+Understand Deemed Exports and
+Technology Control Plan, view the online
+training module
+http://www.bis.doc.gov/index.
+php/forms-documents/doc_
+download/899-bis-de-module-
+h-video
+Servicing items located outside
+the U.S.
+Develop a License Determination Matrix Element 3
+Weak or no compliance structure Build more decision making tools, check
+lists, automate processes, assign roles
+and responsibilities
+Element 1
+Element 4
+Lack of communication within the
+organization
+Develop Training Program and Written
+SOPs
+Get Senior Management Involved
+Element 3
+Element 1
+Element 5
+Poor relationships with export
+facilitators
+Publication: Freight Forwarder Guidance
+Review of Compliance Activities, Shipping
+Documents
+Conduct audits of Electronic Export
+Information
+AES Best Practices
+www.bis.doc.gov
+Element 6
+FTR 30.3(c),  EAR 758.3
+See References for link
+No or underdeveloped export
+clearance procedures
+Create Export Authorization Process Element 3
+Unknown End-User or End-Use Develop Screening Process
+Publication: Know your Customer
+Request an end-use statement
+Use Consolidated Screening List
+Element 3
+EAR Part 732, Supplement 3
+BIS-711
+See “References” for link
+Unaware of Diversion Risk Use Destination Control Statement
+Publication:  Best Practices for
+Transshipments
+EAR Section 758.6
+See “References” for link
+Violating Anti-boycott Laws Detect and Report Anti-boycott issues EAR Part 760
+
+PAGE 21
+ELEMENT THREE: EXPORT AUTHORIZATION
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+17
+ELEMENT 3
+EXPORT AUTHORIZATION
+If your exports include items on the Commerce Control List (CCL) other than EAR99 items, then Element 3
+may be the meat of your ECP .  Even if you only export items classified as EAR99, the screening portion of
+this element is crucial for you.  The goal is to build procedures, processes, process flows, and decision
+tables to help guide employees to make consistent and correct export decisions.    There are four parts to
+this element:
+ y Which agency has jurisdiction over my exported item(s)?
+ y Is my item subject to the EAR?
+ y What is the correct classification for my item(s)?
+ y How does my organization determine if an item requires a license to export?
+ y What screening processes does my organization have to prevent it from violating General
+Prohibitions 4 and 5?
+Think about what approval processes you will implement to ensure that all compliance measures have
+been performed prior to export.
+Jurisdiction
+–– Always the first consideration for export control decisions is to confirm which agency has
+jurisdiction over your export.  BIS has information on its website www.bis.doc.gov to assist in determining
+the order of review for jurisdiction decisions.
+Classification –– Once jurisdiction has been determined, for items subject to the Commerce Department’s
+Export Administration Regulations (EAR), the specific export control classification number (ECCN) for your
+item(s) must be confirmed.  This will require technical specifications of the item and comparing those to
+the technical descriptions included in the CCL.  If you cannot self-classify your item, you can request BIS
+to formally classify an item for you.
+License Determination
+–– Once you have determined an item’s ECCN and noted the reasons for control
+for that item, you can look up in the EAR Country Chart (Supplement 1 to Part 738) whether a license is
+Jurisdiction
+ Classification
+ License
+Determination
+With each part, you will be looking to answer these main questions:
+Screening
+
+PAGE 22
+ELEMENT THREE: EXPORT AUTHORIZATION
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+18
+required to the ultimate destination.  Be aware though, that there may be a license exception available for
+certain exports of that item which you can verify by reviewing the license exceptions in EAR Part 740 and
+the specific ECCN notations for that item.
+Screening
+Your final action in this area is critical. That is screening all parties to your export transaction against the
+U.S. proscribed parties lists prior to exporting.  This is best done at the initial time an order comes in and
+subsequently prior to export.  For large volume exporters, screening parties using software programs
+available by many vendors may be preferable.  The Commerce Department does provide a mechanism to
+screen parties on the BIS web site that consolidates the export control proscribed parties www.bis.doc.
+gov.  A consolidated screen list search tool can be found at http://apps.export.gov/csl-search
+Below are a number of considerations that you should think about prior to finalizing
+your screening process.
+ y How to best implement within your organization’s business operations
+ y When best to complete screening
+ y Frequency (New/Old Customers)
+ y Where and how to maintain screening record results and for how long
+ y How to resolve false positives
+ y Cost of purchasing software to accomplish versus manually completing
+ y Assessing or auditing screening to ensure it is working properly
+Whether it is a potential screen hit, license determination concern or question, or the presence of a red
+flag or questionable transaction, it is critical to create a mechanism for stopping, holding, and releasing
+questionable transactions.  These processes should be well established and known to all staff.  As part of
+these processes, have written guidance on the importance for all staff to be able to place a stop or hold
+on any questionable transaction, and also who has the authority to review and ultimately release or stop
+an export altogether.  As companies expand their consumer base, suppliers, export facilitators, and other
+relationships, screening will become even more critical.
+
+Resources:
+Classification Request Guidelines: http://www.bis.doc.gov/index.php/licensing/commerce-control-list-
+classification/classification-request-guidelines
+Essentials of Export Controls online training: http://www.bis.doc.gov/index.php/compliance-a-training/
+export-administration-regulations-training/online-training-room?id=285
+ y Module 2: Classifying your Item and Determine if you Need a License
+ y Module 5: License Application and Supporting Documentation
+ y Module 6: Export Clearance and Recordkeeping
+In the section “Templates”, there are sample checklists for the following:
+ y Item Classification Sheet
+ y Export Authorization Sheet
+ y License Determination Matrix
+ y Diversion Risk and Red Flags Checklist
+
+PAGE 23
+ELEMENT FOUR: RECORDKEEPING
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+19
+ELEMENT 4
+RECORDKEEPING
+Recordkeeping Requirements in Part 762 of the Export Administration Regulations (EAR)
+Part 762 of the EAR describes:
+ y how long to keep records
+ y what type of records are required to be kept
+ y how to reproduce documents if required
+ y which documents are exempted from retention
+There are some documents that may not be required by regulation but it may be in your best interest to
+maintain these.  For example: Internal documentation that describes the technical decision to classify one
+of your items in a specific ECCN and who made these decisions, would be extremely critical to maintain in
+your export control records. Another example would be disputes of due diligence between you and your
+freight forwarder or screening that was conducted for your customers.  These documents will help prove
+your due diligence.
+Common Barriers
+Organizations should understand their current business environment and the barriers to managing record
+assets.  By first recognizing the barriers, you can address these to effectively manage your records.
+Common barriers include:
+ y Poor development
+ –– Absent or incomplete procedures and training
+ –– Not evaluating the current and future needs in storage and type of storage
+ y Poor support
+ –– Insufficient resources to follow procedures
+ –– Failure of management to communicate the need and importance
+ y Poor execution
+ –– Late adoption
+ –– No follow-up or audit of processes
+Create a System to Manage Records
+Whether paper or electronic, each medium has its strengths and weaknesses.  Evaluate both - with paper
+you have to think of copies, physical storage, offsite storage, archiving, destruction costs and time.  With
+electronic records, your IT department will be key to ensure easy access, retrieval and maintenance.
+
+PAGE 24
+ELEMENT FOUR: RECORDKEEPING
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+20
+How Long to Retain Records
+In Section 762.6 of the EAR, parties are required to keep export records for five years from the latest date
+of export or reexport activity from the U.S.  The latest date of such export or reexport activities include:
+ y the date of any known reexport, transshipment, or diversion of such export
+ y the date of any termination of the transaction, whether formally in writing or by other means
+ y in the case of records pertaining to transactions involving restrictive trade practices or boycotts,
+the date the regulated person receives the boycott-related request or requirement
+See below page for a list of the records the EAR requires to be kept: http://www.bis.doc.gov/index.php/
+forms-documents/doc_view/1209-762
+Assign Roles and Responsibilities
+First, analyze the day-to-day activities that involve exports and re-exports and create a list of documents
+that must be kept, based on the requirements of the EAR. The types of records to maintain will depend on
+the nature of the company’s activities and how they are controlled under the EAR.
+Then, from this list, develop procedures on the recordkeeping responsibilities and standards.  Create
+written procedures and assign individual(s) the following responsibilities:
+ y who, how and where will the documents be kept
+ y who, how, and when will records be inspected for completeness, accuracy, and quality
+ y detailed log or index of records including record-retention requirements in contracts with freight
+forwarders, brokers, and distributors
+A company should clearly allocate responsibilities for recordkeeping among personnel in line-business
+units, records management, system administration, and elsewhere.  Publicly identify those designated
+with recordkeeping responsibility, and ensure oversight and chain-of-command exists.
+Finally, consider developing ongoing training and awareness programs to ensure individuals involved
+in the process can effectively create, retrieve, and manage records.  This emphasis will encourage
+employees to treat records as a company asset.
+Reproducing Original Records
+Reproductions of original records may be maintained (if the nine conditions in Section 762.5 are met),
+but the reproductions must be complete, accurate, and legible.  Whether stored in a paper, microfilm, or
+through electronic digital storage techniques systems, the record must be capable of being reproduced
+onto paper
+.  The copy must record and reproduce all marks, information, and other characteristics of the
+original record and be legible.
+Shift to Electronic Communication and Documents
+As organizations use electronic communication and forms more, record management has shifted from
+traditional paper filing to electronic storage.  Companies are then faced with the challenge of managing
+overwhelming volumes of information and records.  It is essential then that every employee involved in the
+export business of the company becomes educated on how to:
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+
+PAGE 25
+ELEMENT FOUR: RECORDKEEPING
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+21
+ y identify critical and important documents
+ y share and retrieve documents
+ y properly dispose of hard drives, thumb drives and other portable media devices
+ y maintain a back-up system
+An organization should ensure that all required records are captured and correctly filed to allow for
+efficient search and retrieval by conducting periodic audits of the recordkeeping system.  Documents
+should be kept in easily retrievable form and location.  The filing system, whether hard copy or electronic,
+should allow easy matching, for any particular transaction, specific invoices, Automated Export Systems
+(AES) records, delivery notes, air waybills, bills of lading, pa
+cking slips, and records such as technical data
+logs.  Regular internal reviews of recordkeeping will ensure proper practices and procedures
+are followed.
+Manage the risk of losing records by evaluating the physical storage site and control procedures for
+disposal of records.  Involve information technology specialists -- they design the safeguards of an
+organization’s electronic records and systems and know how data is stored and purged.    Also, remember
+that disposal of hard-drives should be part of your compliance considerations; hard-drives should be
+sanitized first (see DOC/NIST “Guidelines for Media Sanitization”) before being sold or disposed of.  See
+the publication at http://www.nist.gov/manuscript-publication-search.cfm?pub_id=917935.
+For electronic systems, ensure information systems have sufficient capacity to support effective records
+management.  Record management requirements often are not considered early enough in the design
+or capital planning stages of information technology development.  More often, records management is
+considered after implementation and too late to incorporate specific recordkeeping requirements into
+systems design.  If records exist in electronic form, a company should take record management into
+consideration when building new or enhancing existing systems to ensure that all appropriate records
+are captured and changes in technology do not make records obsolete.  Organizations should take into
+consideration hardware and software dependency, indexing requirements for retrieval, migration of
+software formats, and requirements for refreshing storage media.  Indexing and other expedient search
+techniques should be used for documents whether they are stored electronically or in paper form.
+Maintain a back-up system for electronic storage and implement measures that will assist recovery of
+information and other electronic communications on your organization’s computer systems and electronic
+mail facilities should there ever be a failure in your main system.
+Request for Documents by the U .S . Government (USG)
+Certain USG agencies may inspect these records whenever they deem necessary and have the option to
+cite an exporter that fails to have or to produce requested records.  If a company has a policy to retain
+records for longer than the government-required time for document retention, and the government
+requests those older records, the company may not destroy them.  The collection of documents in an audit
+request can be daunting, particularly if a company does not have a systematic method of filing records or
+for cross-referencing in its record system.
+Documenting Certain Communications with Foreign Nationals
+One of the greatest risks of inadvertent violations of export laws and regulations occurs during informal
+technical exchanges with foreign national employees, subcontractors, visitors or customers through
+telephone, facsimile, electronic mail, or in person. An organization that has controlled technology
+
+PAGE 26
+ELEMENT FOUR: RECORDKEEPING
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+22
+and software and either employs foreign nationals or has frequent meetings with foreign nationals
+should create and maintain a Technology Control Plan (TCP).  A TCP should be incorporated into the
+organization’s export compliance program and include:
+ y physical security plan
+ y an information security plan
+ y personnel-screening procedures
+ y corporate commitment
+ y training and awareness programs
+ y self-evaluation program
+Recordkeeping of foreign-national visitors at an organization’s facility, for example, would document all
+foreign-national visits and any special conditions attached to the visits.  The record would indicate:
+(1)
+The visitor’s name and nationality;
+(2) The name and affiliation of the organization represented;
+(3) The date of the visit;
+(4) Persons visited;
+(5) Purpose of the visit with specific emphasis on products or services discussed; and
+(6) A summary of the visit, including any issues or circumstances of note.
+Instituting this type of recordkeeping would serve to heighten employees’ awareness that such
+communications are risk areas for potential export violations, thereby minimizing the risk of an
+inadvertent violation.
+Documenting Certain Communications with the U .S . Government
+Companies should also develop and implement a system to document all conversations with government
+officials involving interpretations or other guidance on export control issues. These records can provide
+continuity in performing future export compliance functions, and may assist the company in defending its
+actions, if necessary. It is recommended that organizations require employees to direct all questions on
+interpretation or other guidance to the organization’s export-compliance manager and that conversations
+on behalf of the organization with the U.S. Government on these issues be conducted by the company’s
+export-compliance manager.
+Various Government Agencies Recordkeeping Requirements
+Remember that various governmental agencies have recordkeeping requirements that may apply to your
+transactions.  Such agencies include:
+ y DOC: BIS requirements in the EAR - Part 762
+ y DOC: Census requirements in Foreign Trade Regulations - 15 CFR 30.66(c)
+ y Department of State: Directorate Defense Trade Controls requirements in the ITAR ––
+CFR Part 122.5,
+ y U.S. Treasury: Office Foreign Assets Control - 31 CFR Part 501
+ y Department of Homeland Security: Customs Border and Protection - CFR Part 163.
+
+PAGE 27
+ELEMENT FIVE: TRAINING
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+23
+ELEMENT 5
+TRAINING
+A good training program is critical to having an effective compliance program.  Employees are often
+consumed in their day-to-day tasks and have little time devoted to export compliance. Export compliance
+managers need to get their attention and cooperation.  In designing the training program, look to tailor
+the message as specifically as possible to help various staff members understand their role and how they
+need to contribute.
+Characteristics of a good training program:
+ y Provides job-specific knowledge based on need
+ y Communicates the export responsibilities for each employee
+ y Holds employees accountable for export training through assessments
+Also, a training program should include periodic reviews and revisions to discuss the changes in an
+organization’s products and services, end-uses or end-users, and changes in the EAR.  Organizations need
+to be on top of those changes and communicate the impacts of each to their employees.
+Without a solid training program, employees are left to make export decisions, unaware of their
+consequences or of better alternatives.  When possible, try to include incentives for good export
+compliance behavior rather than using only scare tactics.
+Levels of Training Based on Need
+Depending on the knowledge and skills needed to perform their job, employees should receive different
+levels of export control training.  At the bottom of the pyramid to the left, the training is aimed to teaching
+the basics of export controls.  Generally, this is provided to all
+employees and given as a periodic refresher course to those with little
+or no exposure to exports. The next level
+–– positions with export roles
+–– could include folks that are involved in technical or engineering
+backgrounds that have access to controlled technology in the
+organization, shipping and receiving personnel, human resources,
+sales staff, among others.
+At the top of the pyramid, the Export Compliance Team would consist
+of the export compliance manager and his or her supporting staff.
+The training for this group clearly needs to be extremely detailed and
+include not only the organization’s export compliance processes but
+training on all export control regulations that could impact the organization’s exporting activities. This
+training very possibly could require training on other countries import and export regulatory requirements
+Levels of Training Based on Need
+Export Compliance
+Team
+Positions with
+Export Functions
+General
+Audience
+
+PAGE 28
+ELEMENT FIVE: TRAINING
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+24
+to ensure strong knowledge of the requirements related to imports, re-exports and transfers after an
+export has occurred.  The compliance manager and his/her team also need to include training on what
+potential future needs may be necessary for their organization so they can be forward leaning and
+plan ahead.
+Example: A Two-Tier Training Program
+Level 1: All employees
+TOPICS RESOURCES
+Definitions of export
+Approval process of exports
+Violations
+License conditions and exceptions
+Videos on BIS and Census’s website
+On-line webinars
+Annual Training conducted by
+Red Flags!
+National security concerns
+Company specific concerns
+Company product end-uses
+Contact person for export compliance
+Consequences for violations
+Incentives for prevention and resolution
+Level 2: Export Compliance Team
+In addition to the above training,
+ y Specific organization compliance processes, requirements, and responsibilities
+ y Export regulations from all impacting agencies (EAR, ITAR, FTR, OFAC) –– overview including any
+updates since last training
+ y BIS seminars or other outside training programs
+ y Other detailed training in specific areas of export regulations relevant to the organization
+ –– Anti-boycott
+ –– Deemed Exports and technology releases
+ –– Screening parties
+ –– Company specific diversion risks
+ –– Recordkeeping requirements
+Optional: Hold employees accountable for training
+Some companies are now holding employees accountable after the training is completed.  Employees are
+asked to sign certificate at the end of training, that states he or she is responsible for understanding the
+information taught in the training.  Failure to comply will result in disciplinary action set at the discretion
+of the export compliance manager.  Another way to hold employees accountable is to put training as a
+requirement in their performance plans.
+Resources for export regulatory training materials:
+1. http://www.bis.doc.gov/index.php/compliance-a-training/export-administration-regulations-
+training/online-training-room
+2.
+http://www.bis.doc.gov/index.php/compliance-a-training/current-seminar-schedule
+3. http://www.census.gov/foreign-trade/aes/exporttraining/videos/index.html
+4. http://www.census.gov/foreign-trade/aes/meetingsandpresentations/index.html
+5. http://www.export.gov/regulation/index.asp
+
+PAGE 29
+ELEMENT SIX: AUDITS
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+25
+ELEMENT 6
+AUDITS
+To keep a compliance program running smoothly, the system and its parts must be tested and recalibrated.
+Export compliance managers will need to keep the program dynamic –– altering the program with changes
+in operations, products, and export control regulations.  Audits assess the effectives of current processes
+and check for inconsistencies between these and day-to-day operations.  The export compliance manager
+should assemble a team to assist in conducting the audit.  Based on available resources, this team will
+then need to decide what type of audit to conduct and the scope of the audit.  At the end of this element,
+there are a series of checklists to help you plan, perform, and present the results of your audit.  The audit
+team should be given complete autonomy and flexibility to identify compliance deficiencies, potential
+areas of risk, and then make recommendations to address them.
+T
+ypes of Audits
+Specific Unit/Functional Level
+Specific Unit or Functional Level audits are more focused audits that look at specific areas of the
+export process such as recordkeeping or shipping procedures.  These audits involve reviewing sets of
+transactions and determining how well they were executed in relation to established procedures.
+These assessments can be conducted on a more frequent basis than a program level audit as they
+focus on a smaller area of the export process. Most importantly, these specific functional level audits
+can successfully focus attention at the business unit level and risk areas at an early stage, affording the
+opportunity to correct vulnerabilities before they develop into bigger problems.
+Program Level
+At the corporate-level, organizations should schedule internal audits to be conducted at least on an
+annual basis that involve a comprehensive assessment of their export compliance program.  These larger
+annual audits should include both a review of the organization’s export procedures as well as reviewing
+selected export transactions and how each business unit handled these in relation to the current
+compliance procedures.  Below are examples of items that should be reviewed in an audit:
+ y Export Authorization
+ –– Screening practices and internal controls for compliance
+ –– Order processing system
+ –– Process for authorizing or clearing exports
+ –– Use of licenses and license condition compliance
+ y Corrective action and follow-up procedures
+
+PAGE 30
+ELEMENT SIX: AUDITS
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+26
+ y Deemed Exports and technology releases
+ –– Procedures for foreign national visits or employment
+ –– Review of technology controls and technology transfers, including via e-mails
+ y Review of recordkeeping practices
+ –– Spot-check of export-related documents
+See the Audit Module at the end of this publication for additional guidance and hints on auditing an Export
+Compliance Program (ECP).
+Using External Audit Expertise
+If resources allow, it is a good business practice to periodically utilize an outside auditor.  External
+audits can provide an unbiased, third-party evaluation, and validation, of an organization’s overall export
+compliance program and practices.
+Share Findings and Follow-up
+Prior to finalizing your audit report, share your findings and recommendations with your business unit
+contacts to verify details and ensure buy in at this unit level.  Make any final modifications and then ensure
+the final audit report is provided to all affected program offices, business units, and management officials.
+Maintain these annual audit reports for at least five years. For those areas that include recommendations
+for revisions to procedures or corrective actions, include specific time tables and an implementation
+plan for management to approve.  Include an additional report to management and staff once these
+corrective actions are completed and recheck that each has been implemented and is working properly.
+Every identified vulnerability or procedural problem found is also a learning opportunity to enhance your
+organization’s ECP .  Incorporate these lessons in your training and export awareness programs.
+Checklists
+Plan
+ y Identify business units and personnel to be audited.
+ y Send e-mail notification to affected parties.
+ y Develop a tracking log for document requests.
+ y Prepare audit templates such as interview questions, transactional review checklist,
+audit report format, etc.
+Perform
+ y Gather written procedures from each business unit prior to the audit.
+ y Interview personnel at all levels of the organization to compare written procedures with actual
+business practices.
+ y Identify gaps and inconsistencies from written procedures to interviews.
+
+PAGE 31
+ELEMENT SIX: AUDITS
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+27
+Present
+ y Write draft audit report.
+ –– Executive Summary
+- Purpose
+- Methodology
+- Key Findings
+ –– Findings and Recommendations
+- Organize in Priority Order
+ –– Appendices
+- Interview List
+- Document List
+- Process Charts
+ y Brief the affected business units on the audit findings and recommendations.
+ –– Allow business units to address inaccuracies in report.
+ –– Obtain commitment from business units for corrective action.
+ –– Include time-frames within the report.
+ y Brief executive management on audit findings and recommendations.
+ y Track corrective actions and within a year, audit corrective actions.
+
+
+PAGE 32
+
+
+PAGE 33
+ELEMENT SEVEN: HANDLING EXPORT VIOLATIONS & TAKING CORRECTIVE ACTIONS
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+29
+ELEMENT 7
+HANDLING EXPORT VIOLATIONS
+& TAKING CORRECTIVE ACTIONS
+Detect and Act Early
+An essential part of an organization’s export compliance program are procedures which provide clear
+guidance to all employees concerning what actions to take in the event of suspected incidents of export-
+related noncompliance. This is an area that is often not thought of or included in export compliance
+programs because management feels like they have a good system in place and the organization would
+never have an infraction of export control regulations. Early detection and fast responses to resolve the
+noncompliance issue is key to minimizing your organization’s exposure.
+An early detection program for identifying suspected incidents of export-related noncompliance includes:
+1.
+Creating internal and external reporting procedures for suspected violations of noncompliance
+that is supported by management,
+2. Specific outlined internal processes to follow to investigate, confirm there indeed is a
+noncompliance issue, and correct the issue as needed,
+3.
+Establish disciplinary actions for noncompliance with your organization’s compliance policies and
+with U.S. export laws.
+Support from Senior Management is Critical
+For any notification program to work, employees, including contract employees, must feel that
+management at all levels of the organization are truly committed to export compliance.  This commitment
+must be effectively communicated, often and broadly.  Employees should not only be encouraged to report
+suspected export violations but also know that management views reporting suspected violations as an
+integral part of the organization’s compliance program and an important part of the responsibility and duty
+of each employee.
+Management should also ensure that employees have adequate training, knowledge, and resources to
+comply with the organization’s compliance program.   They are responsible for monitoring compliance of
+the employees they supervise, enforcing compliance standards consistently, and reporting incidents of
+noncompliance to the proper management level.
+Create a Safe Environment
+The most important thing management can do to foster a culture of compliance within their employees
+is to lead by example.  Employees must have a high level of assurance that export compliance is
+
+PAGE 34
+ELEMENT SEVEN: HANDLING EXPORT VIOLATIONS & TAKING CORRECTIVE ACTIONS
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+30
+management’s overriding concern in all export decisions and will never be sacrificed for profit or personal
+gain.  It is critical that employees know that they will be free from retribution or retaliation from other
+employees or management if in good faith they raise questions or concerns about compliance.  In fact,
+employees who have both the conscience and confidence to step forward when actions are suspect are
+one of the best defenses an organization has to ensure that it does not break any export laws.
+Encourage Employees to Report
+It should be made part of employee performance plans and evaluations, stating that employees are
+expected to raise concerns when they see a possible problem.  Additionally, employees who speak up
+should be lauded, perhaps in a monthly compliance newsletter, even if the problem reported resulted in no
+specific confirmed violation, but perhaps led to modifying the organization’s export procedures.
+Management must convey to employees that in addition to knowing the legal and ethical responsibilities
+that apply to their jobs, it is an employee’s duty to speak up if they are unsure about the proper course of
+action or need advice, if they believe another employee is doing, or may be about to do, something that
+violates the organization’s compliance program, or if they believe that they have personally been involved
+in noncompliant activity.  Management must instill within all employees the personal commitment to do the
+right thing.
+Internal and External Reporting Procedures
+As part of an organization’s export compliance program, all staff should be given clear instructions on how
+suspected incidents of export-related noncompliance should be reported.  Suspected incidents can be
+reported in a variety of places in an organization including an export compliance office, legal department,
+or ethics hotline.  The office or individual(s) assigned the responsibility for taking reports should be
+publicly identified.  The name, room number, telephone number, and e-mail address of the notification
+office or person(s) should be made available to all employees, especially those involved in export-
+related activities.  In addition, you may want to consider providing a mechanism or venue through which
+employees can make reports anonymously and can be assured that those reports will be confidential and
+shared on a ‘need-to-know’ basis.
+Written procedures should be developed and included in your export compliance program explaining the
+internal procedures to be followed by the appropriate personnel when a suspected incident of export
+related noncompliance has been reported.  Think through as many contingencies as possible ahead of
+time, and delineate appropriate and detailed procedures.  At a minimum, this should include:
+ y criteria for when to conduct an investigation on a potential noncompliant activity;
+ y how to determine the scope of the investigation;
+ y the specific investigation procedures (who, what, where, when, how);
+ y investigative report documentation requirements;
+ y management notification procedures if noncompliance is confirmed;
+ y documentation requirements of remedial actions taken;
+ y notification procedures to the reporting employee regarding the outcome of the investigation; and
+ y reporting procedures to management regarding corrective actions taken.
+
+PAGE 35
+ELEMENT SEVEN: HANDLING EXPORT VIOLATIONS & TAKING CORRECTIVE ACTIONS
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+31
+Submitting a Voluntary Self-Disclosure
+When noncompliance is confirmed, written procedures should also be developed for external reporting
+procedures to the U.S. Government.  The Commerce Department’s Bureau of Industry and Security (BIS)
+has a Voluntary Self-Disclosure program under which the disclosure will be considered as a great weight
+mitigating factor in any export enforcement administrative action.  However, in order to be considered
+“voluntary,” disclosures must be made prior to the time the U.S. Government obtains knowledge of either
+the same or substantially similar information from another source and initiates an investigation or inquiry
+of its own.  The lesson here is to disclose as quickly as possible to get the great weight mitigation.  If you
+know you will need time to do a comprehensive assessment to identify any other noncompliance, make an
+initial voluntary self-disclosure, and then submit your complete disclosure once you have completed your
+internal review.
+In addition, the voluntary disclosure must be made with the full knowledge and authorization of senior
+company management. To make a voluntary disclosure, submit it to the Director of BIS’s Office of Export
+Enforcement (OEE), as described in Section 764.5(c)(7) of the EAR.  It is helpful to establish one point of
+contact within your organization on the self-disclosure to avoid confusion in communicating with OEE.
+Corrective Actions
+Once noncompliance is confirmed, an obvious but crucial response by the export compliance team is
+identifying the root cause of the noncompliant activity and ensuring you have identified all instances of
+the noncompliance to include in the self-disclosure.  Additionally, the compliance team needs to develop
+corrective actions to ensure the noncompliance does not recur. These corrective actions should be
+implemented as quickly as possible and monitored to make sure they are working properly.  In addition, the
+internal identification of noncompliance and the corrective actions your organization took to remedy the
+situation, is an excellent “lessons learned” training opportunity.  Fold these lessons back into your export
+compliance training program.
+To maximize mitigation of any potential administrative fine, include in your self-disclosure what corrective
+actions have been taken to help avoid any recurrence and any other mitigating factors that may exist. If
+you have an export compliance program in place that includes all the elements BIS recommends, that too
+is a great weight mitigating factor and should be specifically highlighted in your self-disclosure.
+
+PAGE 36
+
+
+PAGE 37
+ELEMENT EIGHT: BUILD AND MAINTAIN YOUR EXPORT COMPLIANCE MANUAL
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+33
+ELEMENT 8
+BUILD AND MAINTAIN YOUR
+EXPORT COMPLIANCE MANUAL
+Getting Started:
+First and foremost, if you have not been directed by senior management to create a formal export
+compliance manual for your organization, get that support and buy-in before doing so.  Explain the
+benefits for your organization, such as protection against unintended export violations which could disrupt
+day to day business, large administrative fines and costly company time to resolve, and damage to the
+organization’s reputation.
+In addition, a written export compliance manual will help employees know their specific responsibilities
+and how they integrate with other parts of the organization helping speed export processes and thus
+delivery of your products and services to customers. Finally, make sure management knows you will need
+them to be an example for the organization and that you will need them to sign a statement to the entire
+organization stressing their support and commitment to export compliance.
+Second, get support from management to establish an export compliance team. You may know much
+of what your organization does, but having experts inside different parts of your organization will help
+tremendously in capturing the specific day-to-day export processes and identifying with them any export
+compliance vulnerabilities that can be addressed in your written export compliance manual.  This group
+will also be invaluable to help write or review specific parts of your manual.  They can also serve to help
+get buy in at the working level within each of these specific units and down the road they can also help to
+revise your manual as you review it annually to ensure it is kept current and relevant.
+Ready to write:
+Depending on the size or your organization, and the extent of your export operations, your written
+manual could range from a dozen or so pages to 100 or more.  The most important aspect here is to keep
+it relevant to your organization.  Make sure the manual is easy to understand and follow, and captures
+the day-to-day operations and procedures so, for example, a new employee would have no problem
+understanding the flow and processes involved.
+Start with writing an introduction which would include why export compliance is important to your
+organization.  Following that, write a management commitment statement for your president or CEO to
+send to all employees and be captured as the first part of your written manual.  With your team, examine
+your organization’s export risks and identify those in your risk assessment section.  In this section as well,
+include all personnel responsible for export compliance and their responsibilities.
+
+PAGE 38
+ELEMENT EIGHT: BUILD AND MAINTAIN YOUR EXPORT COMPLIANCE MANUAL
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+34
+Review the other elements and with your team flesh out what those specific processes and procedures
+are, or should be.  Very often you can borrow from existing procedures that are already in place but may
+have never been captured in one written document.  Where possible, create flow diagrams accompanied
+by written description, making it easier for staff to understand.  Once you have drafted your written export
+compliance manual, have your team proof read to fill in any gaps or fine tune the procedures. You also may
+want to select a few people outside your team to review the draft manual as well to get their opinion and
+suggestions for areas that might not be clear. Keep in mind, that creating this written compliance manual
+will most likely take several months to complete.
+Ready to publish:
+You want your written export compliance program manual to have an official corporate look, so take time
+to ensure the overall appearance shows the importance of this document.  Once it is edited and cleared
+by management, ensure it is advertised to all employees and where it is available on the organization’s
+internal electronic files.  In addition, make sure the management commitment statement includes a
+highlight of who is the empowered contact person for staff to contact if they have any questions or
+feedback on the manual and/or export control concerns generally.
+Finally, don’t park your export compliance manual and forget about it.  Make a calendar assignment to do
+periodic reviews of the manual with your team to ensure it is dynamic and kept up-to-date.  Many changes
+in your organization or in the export regulations may create the need to make revisions even before your
+periodic review schedule.
+
+PAGE 39
+AUDIT MODULE
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+35
+AUDIT MODULE
+EXPORT COMPLIANCE PROGRAM
+The audit module is a tool to help exporters develop or revise their Export Compliance Program.
+ Each element is broken down and has an option to Add (+), Update or Revise (∆), Not-applicable (N/A)
+or is currently in Operation (✓).   Each organization has unique requirements and will need to assess their
+own export activities and export programs.  This tool combines best compliance practices from   U.S.
+organizations, auditing practices, and Export Administration Regulations (EAR) requirements.  Keep in
+mind, the audit module cannot include every possible requirement or activity necessary.  Please see the
+EAR for complete details.
+Element 1:  MANAGEMENT COMMITMENT
+Element 2:  RISK ASSESSMENT
+Element 3:  EXPORT AUTHORIZATION
+Element 4:  RECORDKEEPING
+Element 5:  TRAINING
+Element 6:  AUDITS
+Element 7:  HANDLING EXPORT VIOLATIONS & TAKING CORRECTIVE ACTIONS
+Element 8:  BUILD AND MAINTAIN YOUR EXPORT COMPLIANCE MANUAL
+Legend for Each Element:
+✓ Currently in Operation
++ Add to ECP
+∆ Update or Revise
+N/A Not-Applicable
+
+PAGE 40
+AUDIT MODULE
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+36
+Element 1: MANAGEMENT COMMITMENT ✓ + ∆ N/A
+The Management Commitment Statement is a formal statement signed by a high
+level executive officer (CEO, President, Owner, etc.) that clearly communicates the
+organization’s commitment to export controls.
+Management Commitment is strong and supportive.
+The statement explains why corporate commitment is important from your
+organization’s perspective and/or national security.
+The statement contains a policy statement that no sales will be made contrary to the
+Export Administration Regulations.
+The statement conveys the dual-use risk of the items to be exported.
+The statement designates and includes contact information for a person, if there are
+questions on the legitimacy of a transaction, possible violations, or if there needs to
+be a change in the ECP .
+The statement is distributed to all employees and is easily accessible online
+or by print.
+Each individual must sign an employee acknowledgement page after reading
+the statement.
+Management commitment is communicated on an ongoing basis, but not limited to
+one or more of the following:
+ y Company publications
+ y Company awareness posters
+ y Daily operating procedures
+ y Orientation programs
+ y Refresher training
+ y Electronic training modules
+ y Employee procedures manuals
+ y Other means, e.g., bulletin boards, in meetings, etc.
+
+PAGE 41
+AUDIT MODULE
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+37
+  Element 2 & 3:  RISK ASSESSMENT & EXPORT AUTHORIZATION
+(Export item) ✓ + ∆ N/A
+Export items have an accurate and current ECCN (Export Control
+Classification Number).
+Designate an individual to determine jurisdiction, classification, and
+licensing responsibilities.
+Written procedures describe how items are classified on the CCL (Commerce
+Control List) whether by a technical expert, the manufacturer of the item,
+or by BIS.
+Written procedures describe the process for seeking commodity
+jurisdiction determinations.
+A matrix and/or a decision-tree table for product/country license determinations
+are utilized.
+Written procedures are in place for necessary license conditions follow-ups.
+Instructions specify who, when, where, and how to check each shipment
+against the matrix.
+Written procedures exist for appropriate shipping authorizations, and
+how to determine if:
+ y a license is required,
+ y a license exception is eligible (specify which),
+ y no license is required (NLR.)
+For service or repair of items located outside the U.S., a process is in place to
+determine if a license is required.
+For controlled technology:  Safeguards are in place to control the item.
+For foreign nationals:  Deemed export license(s) and a technology control plan
+are in place.
+
+PAGE 42
+AUDIT MODULE
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+38
+(Organizational Operations) ✓ + ∆ N/A
+The compliance structure is clear and roles are defined.
+Centralized operations: Have the corporate office administers compliance
+program
+Decentralized operations:  Separate operating units administer
+compliance program.
+Adequate resources are available to run an effective program.
+Good communication exists within the organization.
+Checks and safeguards are in place within the internal process flows.
+Assigned personnel are responsible for all checks.
+Written procedures are in place to ensure that product/country license
+determination guidance is current and updated for exports, re-exports,
+and transfers.
+Good working relationship with freight forwarder(s).
+Written procedures exist for routed transactions where the Electronic Export
+Information can also be obtained easily.
+Export clearance procedures are well-defined.
+The organization has an active BIS SNAP-R account and/or other government
+accounts to apply for Commerce licenses and/or commodity classifications.
+The organization is receives updates to the EAR by and monitors the Code of
+Federal Regulations for updates.
+Monitor the Federal Register for proposed and finalized rules.
+(Customer) ✓ + ∆ N/A
+The customer database is current and updated frequently.
+Screening is performed for all customers and includes the customer/company’s
+name, address, associated persons.
+Written procedures describe when, how often, and what screening is performed
+and by whom.
+Responsible personnel/positions are identified for ensuring screening of
+customers and their activities which include prohibited end-users.
+Screening processes are recorded for each transaction.
+Prior to exporting, exports and re-exports of all items subject to the EAR are
+monitored determining whether or not the items are destined for a prohibited
+end-user.
+Compliance of consignees, end-users and other parties involved in export
+transactions are monitored and reported, if destined to a proscribed party or
+destination.
+If matches occur to a proscribed party and/or destination, a “hold” function is
+present to prevent shipments from being further processed.
+A checklist is documented and maintained on file for each and every order,
+including backlogs.
+Element 2 & 3:  RISK ASSESSMENT & EXPORT AUTHORIZATION (cont’d)
+
+PAGE 43
+AUDIT MODULE
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+39
+Processes exist for Product/Country Licensing Determination.
+Each transaction is screened to determine whether there are any license
+requirements which include exports, re-exports, or transfers of specified items
+to specified end-users as well as an unacceptable risk of use in, or diversion to,
+prohibited proliferation activities.
+The order process and other linking processes include a description of
+administrative control over the following documents: Electronic Export
+Information, Shipper’s Letter of Instruction (SLI), Airway bills (AWB), Bills of
+Lading, Invoices.
+Order processes link internal flows displayed visually in a series of flow charts
+that include from receipt of order to actual shipment.
+If no product/country license determination exists, a “hold” function stops the
+order until a decision is made as to license requirements.
+A supervisor or Export Compliance Administrator signs-off on procedures
+implemented at high risk points.
+The following checks, but not limited to, are included in the internal screening
+process (Consolidated Screening List):
+ y Denied Persons
+ y Entity List
+ y Unverified List
+ y Specially Designated Nationals List
+ y Boycott language
+ y Embargoed/Sanctioned Countries
+ y Nuclear End-Uses
+ y Certain Rocket Systems and Unmanned Air V
+ehicles End-Uses
+ y Chemical and Biological W
+eapons End-Uses
+ y Diversion Risk Check
+Other trade-related sanctions, embargoes, and debarments imposed by agencies
+other than the Department of Commerce are checked.
+ Department of T
+reasury (Office of Foreign  Assets Control):
+ y Specially Designated Nationals List
+ y Foreign Sanctions Evaders List
+ y Sectoral Sanctions Identifications (SSI) List
+ y Palestinian Legislative Council (PLC) List
+ y The List of Foreign Financial Institutions Subject to Part 561 (the Part 561
+List):
+ y Non-SDN Iranian Sanctions Act List (NS-ISA)
+Department of State:
+ y Nonproliferation Sanctions
+ y AECA Debarred List
+(Customer- cont’d) ✓ + ∆ N/A
+
+PAGE 44
+AUDIT MODULE
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+40
+Element 4: RECORDKEEPING ✓ + ∆ N/A
+A system is in place to manage records, including record retention.
+Written procedures have detailed step-by-step instructions on what employees are
+expected to follow.
+Records, in physical-hardcopy and/or electronic form, are retained and maintained in
+a secured location.
+A designated employee(s) (Name, Contact info) is responsible for management and
+maintenance of recordkeeping as well as a designated back up person (s).
+Records are maintained per organizational policy (minimum 5 years).
+Employees have access to all the appropriate systems, tools, databases, and records to
+perform their responsibilities that ensures compliance with recordkeeping procedures.
+Employees understand the importance of their roles related to the overall recordkeeping
+requirement.
+A Technology Control Plan (TCP) is maintained, if needed.
+A log is maintained for all visitors to the facility
+.
+Establish procedures on how to properly dispose sensitive medium for more information
+see “DOC/NIST “Guidelines for Media Sanitization”
+Obtains copies of export documents from freight forwarders.
+The procedure includes a list of records to maintain (not exclusive):
+ y SNAP-R (Simplified Network Application Process-Redefined)
+ y Export Licenses (Commerce/State/OFAC)
+ y Accompanying attachments, rider or conditions
+ y Commodity Classifications
+ y Commodity Jurisdiction letters
+ y Advisory Opinion letters
+ y BIS-648P (Notification of Delivery Verification Requirement)
+ y BIS 711 Statement by Ultimate Consignee and Purchaser
+ y End-user Certificates
+ y Copy of all shipments/AES filings
+ y Commercial Invoices
+ y Sales Orders
+ y Shippers Letter of Instruction (SLI)
+ y Description of items(s)
+ y ECCN(s)
+ y License Exceptions or Exemptions
+ y Schedule B number(s)/HS numbers
+ y Air Waybills and/or Bills of Lading V
+alue of shipments
+
+PAGE 45
+AUDIT MODULE
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+41
+  Element 5: TRAINING ✓ + ∆ N/A
+ Export control training is based on job specific needs and at different levels.
+Employees are informed on their training requirements and told what trainings to take
+and how often (i.e. quarterly, yearly).
+Attendance logs are used for documentation which includes agenda, date, trainer,
+trainees, and subjects.
+A qualified individual (s) (name, position) is designated to conduct training and to update
+the training materials.
+If the primary responsible person is unable to perform the responsibilities, a secondary
+person is designated to back-up the primary designee.
+Responsible persons are trained to understand the interconnection of their roles
+with other ECP processes and where they fit in the overall export transaction/
+compliance program.
+Training materials are accurate, consistent and current with operational company
+policy, procedures and processes.
+ A training schedule is accessible which includes date, time, and place.
+The organization trains in a “Formal” structured setting, and agendas and modules
+are used.
+The organization trains in an “Informal” less structured basis, where verbal, daily, on-
+the-job exchanges are used.
+As export regulations change, periodic reviews and revisions to the training program
+are conducted.
+ Training program includes, but not limited to:
+•
+Orientation for new employees
+• Definitions of exports and the export regulatory requirements
+• Organizational structure of export-related departments and functions
+• Message of management commitment - Policy Statement
+• The purpose and scope of export controls
+• National security concerns
+• Organizational/Company specific concerns
+• Red flags
+• Licenses, conditions and exceptions
+• Deemed exports and hand-carry items
+• Report of potential violations, escalation process, and corrective
+action requirements
+•
+Regulatory changes and new requirements
+• Back-up personnel training
+• Destination restrictions
+• Item restrictions
+• End-Use and End-User Prohibitions
+• New customer review procedures
+• Violations
+• Refresher courses and updates to the schedule
+• Identification and description of non-compliance?
+
+PAGE 46
+AUDIT MODULE
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+42
+Element 6: AUDITS ✓ + ∆ N/A
+Procedures are performed as written and the compliance program is ongoing.
+Qualified individual (or auditing group) is designated to conduct internal audits.
+Use of a standard audit module or self-assessment tool.
+Specific unit/functional level audits are performed.
+Program level audits are performed.
+A schedule for audits (annually, semi-annually, quarterly) is defined.
+The audit process is described step-by-step.
+Potential conflict of interest between the auditor and the division being audited are
+addressed.
+Best practices are shared with other divisions in the company to improve
+effectiveness and efficiency of export controls and promote consistency of
+procedures.
+Briefings to management and relative business units on audit findings are provided in
+a timely manner.
+Written report(s) of the audit and corrective actions are shared.
+If possible/available, external audits are performed.
+The audit may include the following but not limited to:
+ y Methodology of the audit
+ y All key export-related personnel are interviewed
+ y Sampling of the completed screens performed during the order processing
+and/or new (or annual) customer screening
+ y Screening practices and internal controls for compliance
+ y A procedure to stop/hold transactions if problems arise
+ y Accurate product/license determinations and export authorizations are
+consistent with the current EAR and Federal Register notices
+ y Export control procedures and the ECP manual are consistent with EAR
+changes that have been published
+ y Flow charts of the various processes for each Element
+ y Clear
+, open communications among all export-related divisions
+ y Records of past audits maintained to monitor repeated deficiencies
+ y List or process of corrective actions, if needed
+ y W
+ritten report/results of each internal audit
+
+PAGE 47
+AUDIT MODULE
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+43
+Element 7: HANDLING EXPORT VIOLATIONS AND
+TAKING CORRECTIVE ACTIONS ✓ + ∆ N/A
+Management creates a safe environment and fosters a culture of compliance.
+Management acknowledges the findings of potential violations.
+Internal and external procedures notify company management if a party is suspected
+of export-related non-compliance.
+The organization has an anonymous reporting mechanism for employees.
+Appropriate incentives, rewards, requirements are in place to recognize employees
+who report suspected export violations.
+Organizational policy/guidelines address accountability and consequences for
+noncompliant activity.
+A 24-hour mechanism notifies the compliance management of possible export
+violations or problems.
+There are established disciplinary actions for noncompliance within the organization’s
+compliance policies and with U.S. export laws.
+Compliance guidelines include policy and procedures for follow-up reporting to
+management and the reporting employee.
+Compliance guidelines provide defined criteria for when a formal internal
+investigation is required.
+Internal procedures are in place to notify the appropriate U.S. Government officials
+(e.g. Commerce/State/Treasury, etc.) when non-compliance is determined.
+A central corporate point-of-contact  has been defined for all communications
+with the U.S.G.
+There are clear guidelines for Voluntary Self-Disclosures (VSDs).
+
+PAGE 48
+AUDIT MODULE
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+44
+Element 8: BUILD AND MAINTAIN YOUR
+EXPORT COMPLIANCE MANUAL ✓ + ∆ N/A
+An organizational official is charged with ECP oversight and ongoing
+commitment to the program.
+Written procedures clearly describe detailed step-by-step processes that
+employees are expected to follow and contingencies are addressed.
+The written ECP is developed and maintained with input from all the corporate
+stakeholders in the export process.
+Consistent written and operational procedures exist.
+All ECP tasks are clearly summarized and consistent with detailed information
+in other corresponding elements.
+Written procedures describe how information will flow among all the elements
+to help ensure ECP effectiveness and accountability.
+The written procedures are reviewed for update at least annually and when
+significant changes occur.
+Management is directly involved through regularly scheduled meetings with the
+various units responsible for roles within the ECP .
+Management has implemented a team of ECP managers who meet frequently
+to review challenges, procedures, and processes and who also serve as the
+liaison with those who perform the ECP responsibilities.
+If the primary responsible persons are unable to perform the assigned
+responsibilities, a secondary person is designated to back-up the primary
+designees.
+A table/list identifies individuals, their positions, addresses, telephone numbers,
+e-mail addresses, and their respective export transaction and compliance
+responsibilities for both domestic and international sites.
+Responsible persons understand the interconnection of their roles with other
+ECP processes and where they fit in the overall export compliance system.
+Adequate resources (time, money, people) are dedicated to the implementation
+and maintenance of the ECP .
+The ECP is available and easily accessible for both employees and managers.
+
+PAGE 49
+TEMPLATES
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+45
+Template 1: ITEM CLASSIFICATION SHEET
+Item Description
+Technical Specifications
+Agency Jurisdiction
+ECCN Classification Decision
+Contacts Made to Determine Item
+Classification
+Name/Title of Technical Decision
+Maker (Engineer)/Date
+Name/Title of Approving
+Manager/Date
+End-Use of the Item
+(Civilian or Military?)
+Request for Evaluation Due
+to EAR Change Made
+Evaluation Decision
+Date
+Name/Title of Product Engineer
+
+PAGE 50
+TEMPLATES
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+46
+Template 2: EXPORT AUTHORIZATION SHEET
+ITEM
+Description
+ECCN or Other Classification
+Country of Destination
+LICENSE DETERMINATION
+Is license required?
+License Number
+ Is license exception eligible?
+ License Exception
+No license required
+Check here
+Reviewed by: Initials Date
+SCREENING
+Party Screening Complete Initials Date
+End-use military?
+Prohibited End-use?
+End-use statement?
+EXPORT REPORTING
+ITN
+(if not needed, exemption or exclusion
+citation)
+Compliance Documents needed:
+Other Documents needed:
+
+PAGE 51
+TEMPLATES
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+47
+Template 3: LICENSE DETERMINATION MATRIX
+PRODUCT
+NUMBEr
+COUNTRY ITEM DESCRIPTION AGENCY
+JURISDICTION
+ECCN OR
+CLASSIFICATION
+LICENSE
+REQUIREMENTS
+
+PAGE 52
+TEMPLATES
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+48
+Template 4: DIVERSION RISK & RED FLAGS CHECKLIST
+KNOW YOUR CUSTOMER
+The customer or purchasing agent is reluctant to offer information about the end use (or
+end-user) of a product. Yes No
+The customer has little or no business background.  For example, financial information
+unavailable from normal commercial sources and corporate principals unknown by
+trade sources.
+Yes No
+The customer is willing to pay cash for a very expensive item when the terms of the
+sale call for financing.   Yes No
+The customer is unfamiliar with the product’s performance characteristics but still wants
+the product.  Yes No
+The customer declines routine installation, training, or maintenance services. Yes No
+When questioned, the buyer is evasive or unclear about whether the purchased product is
+for domestic use, export, or reexport. Yes No
+Customer uses only “P
+ .O . Box” address
+ or has facilities that appear inappropriate for the
+items ordered.   Yes No
+Customer is known to have, or is suspected of having, unauthorized dealings with
+embargoed countries.  Yes No
+KNOW YOUR PRODUCT
+The product’s capabilities do not fit the buyer’s line of business: for example, a small bakery
+places an order for several sophisticated lasers. Yes No
+The product ordered is incompatible with the technical level of the country to which the
+product is being shipped.  For example, semiconductor manufacturing equipment would be
+of little use in a country without an electronics industry.
+Yes No
+Customer’s order is for parts known to be inappropriate, for which the customer appears to
+have no legitimate need (e.g., there is no indication of prior authorized shipment of system
+for which the parts are sought).
+Yes No
+DELIVERY
+Delivery dates are vague, or deliveries are planned for out-of-the way destinations. Yes No
+A freight forwarding firm is listed as the product’s final destination. Yes No
+The shipping route is abnormal for the product and destination.  Yes No
+Packaging is inconsistent with the stated method of shipment or destination. Yes No
+Add company-specific indicators here . Yes No
+Add the new red flag indicators that are pending . Yes No
+
+PAGE 53
+REFERENCES
+Export Compliance Guidelines: The Elements of an Effective Compliance Program
+49
+REFERENCES
+Know Your Customers
+http://www.bis.doc.gov/index.php/component/content/article/23-compliance-a-training/47-know-your-
+customer-guidance
+Destination Control Statement – EAR Part 758 .6
+Online T
+raining Room
+http://www.bis.doc.gov/index.php/compliance-a-training/export-administration-regulations-training/
+online-training-room
+Consolidated Screening List
+http://apps.export.gov/csl-search
+BIS “Best Practices for Industry to Guard Against Unlawful Diversion through Transshipments Trade”
+http://www.bis.doc.gov/index.php/forms-documents/doc_view/625-best-practices
+Voluntary Self-Disclosure
+http://www.bis.doc.gov/index.php/enforcement/oee/voluntary-self-disclosure
+AES Best Practices
+http://www.census.gov/foreign-trade/aes/documentlibrary/bp/aes_bestpractices.html
+Freight Forwarder Guidance
+http://www.bis.doc.gov/index.php/forms-documents/doc_view/620-new-freight-forwarder-guidance
+
+PAGE 54
+
+
+PAGE 55
+
+
+PAGE 56
+U.S. Department of Commerce
+Bureau of Industry and Security
+January 2017
