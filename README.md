@@ -1,7 +1,5 @@
 # export-control-advisor
-Copy the following into `README.md`:
 
-````markdown
 # Export Control Policy Advisor
 
 An AI skill for creating and adapting company-specific export-control policies, plans, procedures, and supporting documentation.
