@@ -1,0 +1,217 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Export Control Advisor Evidence Manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "engagement_id",
+    "inventory_created_at",
+    "inventory_tool_version",
+    "entries",
+    "issues",
+    "inventory_status"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "engagement_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "inventory_created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "inventory_tool_version": {
+      "type": "string"
+    },
+    "inventory_status": {
+      "enum": [
+        "complete",
+        "with_issues"
+      ]
+    },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "evidence_id",
+          "relative_path",
+          "sha256",
+          "size_bytes",
+          "provenance",
+          "provenance_status",
+          "review_status",
+          "mappings"
+        ],
+        "properties": {
+          "evidence_id": {
+            "type": "string",
+            "pattern": "^EV-[a-f0-9]{16}$"
+          },
+          "relative_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sha256": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          },
+          "size_bytes": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "provenance": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "source_system",
+              "tenant",
+              "collected_at",
+              "period_start",
+              "period_end",
+              "query_or_method",
+              "collector_version",
+              "collected_by",
+              "data_handling",
+              "collection_status"
+            ],
+            "properties": {
+              "source_system": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "tenant": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "collected_at": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "period_start": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "period_end": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "query_or_method": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "collector_version": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "collected_by": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "data_handling": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "collection_status": {
+                "enum": [
+                  "complete",
+                  "partial",
+                  "failed",
+                  "unknown",
+                  null
+                ]
+              }
+            }
+          },
+          "provenance_status": {
+            "enum": [
+              "not_provided",
+              "user_reported",
+              "verified"
+            ]
+          },
+          "review_status": {
+            "enum": [
+              "not_assessed",
+              "reviewed",
+              "needs_clarification"
+            ]
+          },
+          "mappings": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "document_section",
+                "requirement_basis",
+                "evidence_locator",
+                "supports",
+                "limitations"
+              ],
+              "properties": {
+                "document_section": {
+                  "type": "string"
+                },
+                "requirement_basis": {
+                  "type": "string"
+                },
+                "evidence_locator": {
+                  "type": "string"
+                },
+                "supports": {
+                  "type": "string"
+                },
+                "limitations": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "issues": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "path",
+          "reason"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "path": {
+            "type": "string"
+          },
+          "reason": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

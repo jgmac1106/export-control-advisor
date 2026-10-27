@@ -68,3 +68,10 @@ Use SHA-256 only to identify the bundled copies, not to establish official authe
 and supporting analysis. Its linked technical sources are vendor explanations.
 Use it for intake and document tailoring, not regulatory authority or evidence of
 company implementation. Verify current service capabilities for each engagement.
+
+## Evidence workflow resources
+
+The evidence collection workflow, mapping guide, and GCC High implementation plan
+are authored operational templates and supporting analysis. They are not regulations
+or evidence of implementation. The inventory script and schema record intake
+metadata; legal claims still require current primary-source verification.
