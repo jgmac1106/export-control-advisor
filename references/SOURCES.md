@@ -61,3 +61,10 @@ Use SHA-256 only to identify the bundled copies, not to establish official authe
 - S08: `088be7b020baf8b326282a422e3ed9f96a5f72aeeabd8cc4f59ee831ab87316b`
 - S09: `1f757636ba40f5860da631e1f7cbed4422305a98b771dfe681f70e598ce03bea`
 - S10: `a8b5836b9bc2ff1fb2757a7f611b32114f85557b146d27af880b9f8cc9eaf79a`
+
+## Deployment catalog
+
+[Common deployments](common-deployments.md) contains reusable architecture templates
+and supporting analysis. Its linked technical sources are vendor explanations.
+Use it for intake and document tailoring, not regulatory authority or evidence of
+company implementation. Verify current service capabilities for each engagement.

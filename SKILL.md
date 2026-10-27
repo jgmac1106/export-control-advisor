@@ -36,6 +36,7 @@ limitations. Do not load the entire source collection for every task.
 | Task | Read first |
 |---|---|
 | Every new engagement or source conflict | `references/SOURCES.md` |
+| Tailor documents to cloud, enclave, VDI, printing, engineering, or OT deployments | `references/common-deployments.md` |
 | Establish scope or resolve missing company facts | `references/intake.md` |
 | Plan deliverables, map revisions, or check completion | `references/output-review.md` |
 | ITAR program structure | Source S05, DDTC 2023 Compliance Program Guidelines |
@@ -74,6 +75,15 @@ with accessible authoritative sources and explicit unresolved items.
 6. Establish the intended jurisdictional scope: ITAR, EAR, both, or unresolved.
    Distinguish these from CUI, contractual cybersecurity obligations, and NISPOM.
    Do not infer applicability from a company being a defense supplier alone.
+
+## Deployment tailoring
+
+After shared intake, use `references/common-deployments.md` when a deployment
+pattern applies. Select the closest pattern, record deviations and actual versus
+proposed status, and verify exact service capabilities. Use its boundaries, intake
+questions, and document impacts in either workflow. Keep printing, engineering,
+and OT scope explicit. Do not infer compliance or endpoint exclusion from VDI,
+cloud branding, or segmentation.
 
 ## Workflow selection
 
